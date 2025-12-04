@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="571.8161 411.34124 387.71236 105.54471" width="387.71236" height="105.54471">
+  <defs/>
+  <g id="Canvas_5" fill="none" stroke-opacity="1" stroke-dasharray="none" fill-opacity="1" stroke="none">
+    <title>Canvas 5</title>
+    <rect fill="black" x="571.8161" y="411.34124" width="387.71236" height="105.54471"/>
+    <g id="Canvas_5_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_13">
+        <text transform="translate(641.24846 411.34124)" fill="white">
+          <tspan font-family="Orbitron" font-weight="bold" font-size="72" fill="white" x="0" y="73" xml:space="preserve">AMLC</tspan>
+        </text>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(571.8161 492.88595)" fill="white">
+          <tspan font-family="Orbitron" font-size="15" fill="white" x="0" y="15" xml:space="preserve">Applied Machine Learning Conference</tspan>
+        </text>
+      </g>
+      <g id="Group_2">
+        <g id="Graphic_11">
+          <path d="M 623.5772 442.7577 L 623.5772 469.5216 L 612.61 463.2834 L 612.6364 449.013 Z" fill="white"/>
+        </g>
+        <g id="Graphic_10">
+          <path d="M 571.8161 469.5216 L 571.8161 442.7577 L 582.7833 448.9959 L 582.7569 463.2663 Z" fill="white"/>
+        </g>
+        <g id="Graphic_9">
+          <path d="M 573.1649 440.28315 L 596.3431 426.9012 L 596.4243 439.51815 L 584.05254 446.6305 Z" fill="white"/>
+        </g>
+        <g id="Graphic_8">
+          <path d="M 599.0898 426.9012 L 622.268 440.28315 L 611.382 446.6619 L 599.03665 439.50384 Z" fill="white"/>
+        </g>
+        <g id="Graphic_7">
+          <path d="M 622.268 471.8005 L 599.0898 485.1825 L 599.00866 472.5655 L 611.3804 465.45316 Z" fill="white"/>
+        </g>
+        <g id="Graphic_6">
+          <path d="M 596.3431 485.1825 L 573.1649 471.8005 L 584.0509 465.42177 L 596.3963 472.5798 Z" fill="white"/>
+        </g>
+        <g id="Graphic_5">
+          <path d="M 596.4186 456.8574 L 596.3852 469.3662 L 585.53556 463.14074 L 585.56896 450.63194 Z" fill="white"/>
+        </g>
+        <g id="Graphic_4">
+          <path d="M 599.0143 456.8574 L 609.864 450.63194 L 609.8974 463.14074 L 599.0477 469.3662 Z" fill="white"/>
+        </g>
+        <g id="Graphic_3">
+          <path d="M 597.69665 454.507 L 586.8804 448.2237 L 597.69665 441.94037 L 608.5129 448.2237 Z" fill="white"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
