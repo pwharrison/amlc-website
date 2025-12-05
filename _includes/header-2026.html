@@ -1,8 +1,8 @@
 <header class="site-header">
   <div class="header-container">
     <div class="site-title">
-      <a href="/2026/" class="logo-link" aria-label="Applied Machine Learning Conference">
-        <img src="/assets/images/amlc-header-logo.svg" alt="AMLC" class="site-logo">
+      <a href="{{ '/2026/' | relative_url }}" class="logo-link" aria-label="Applied Machine Learning Conference">
+        <img src="{{ '/assets/images/amlc-header-logo.svg' | relative_url }}" alt="AMLC" class="site-logo">
       </a>
     </div>
 
@@ -14,12 +14,12 @@
 
     <nav class="site-nav">
       <ul class="nav-list">
-        <li><a href="/2026/" {% if page.url == '/2026/' %}class="active"{% endif %}>Home</a></li>
-        <li><a href="/2026/cfp/" {% if page.url contains '/cfp' %}class="active"{% endif %}>Call for Proposals</a></li>
-        <li><a href="/2026/schedule/" {% if page.url contains '/schedule' %}class="active"{% endif %}>Schedule</a></li>
-        <li><a href="/2026/speakers/" {% if page.url contains '/speakers' %}class="active"{% endif %}>Speakers</a></li>
-        <li><a href="/2026/venue/" {% if page.url contains '/venue' %}class="active"{% endif %}>Venue & Travel</a></li>
-        <li><a href="/2026/sponsors/" {% if page.url contains '/sponsors' %}class="active"{% endif %}>Sponsors</a></li>
+        <li><a href="{{ '/2026/' | relative_url }}" {% if page.url == '/2026/' %}class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ '/2026/cfp/' | relative_url }}" {% if page.url contains '/cfp' %}class="active"{% endif %}>Call for Proposals</a></li>
+        <li><a href="{{ '/2026/schedule/' | relative_url }}" {% if page.url contains '/schedule' %}class="active"{% endif %}>Schedule</a></li>
+        <li><a href="{{ '/2026/speakers/' | relative_url }}" {% if page.url contains '/speakers' %}class="active"{% endif %}>Speakers</a></li>
+        <li><a href="{{ '/2026/venue/' | relative_url }}" {% if page.url contains '/venue' %}class="active"{% endif %}>Venue & Travel</a></li>
+        <li><a href="{{ '/2026/sponsors/' | relative_url }}" {% if page.url contains '/sponsors' %}class="active"{% endif %}>Sponsors</a></li>
       </ul>
     </nav>
   </div>

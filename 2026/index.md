@@ -8,13 +8,13 @@ year: 2026
 <div class="hero">
   <div class="hero-content">
     <div class="hero-logo">
-      <img src="/assets/images/amlc-hero-logo.svg" alt="Applied Machine Learning Conference">
+      <img src="{{ '/assets/images/amlc-hero-logo.svg' | relative_url }}" alt="Applied Machine Learning Conference">
     </div>
     <p class="hero-subtitle">Charlottesville, Virginia</p>
     <p class="hero-date">April 2026</p>
     <div class="hero-cta">
-      <a href="/2026/cfp/" class="btn btn-primary">Submit a Proposal</a>
-      <a href="/2026/sponsors/" class="btn btn-secondary">Become a Sponsor</a>
+      <a href="{{ '/2026/cfp/' | relative_url }}" class="btn btn-primary">Submit a Proposal</a>
+      <a href="{{ '/2026/sponsors/' | relative_url }}" class="btn btn-secondary">Become a Sponsor</a>
     </div>
   </div>
 </div>
