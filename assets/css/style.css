@@ -320,7 +320,7 @@ strong {
 }
 
 .hero-logo {
-  margin: 0 auto var(--spacing-xl);
+  margin: 0 auto var(--spacing-lg);
   max-width: 900px;
   display: flex;
   justify-content: center;
@@ -334,13 +334,15 @@ strong {
 
 .hero-subtitle {
   font-size: 1.5rem;
-  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+  margin-bottom: var(--spacing-lg);
   opacity: 0.95;
 }
 
 .hero-date {
-  font-size: 1.25rem;
-  margin-bottom: var(--spacing-xl);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: var(--spacing-lg);
   opacity: 0.9;
 }
 
@@ -404,7 +406,7 @@ section:nth-child(even) {
 
 section h2 {
   text-align: center;
-  margin-bottom: var(--spacing-xl);
+  margin-bottom: var(--spacing-lg);
   font-size: 2.25rem;
 }
 
@@ -431,7 +433,6 @@ section h2 {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: var(--spacing-xl);
-  margin-top: var(--spacing-xl);
 }
 
 .highlight-item {
@@ -459,26 +460,43 @@ section h2 {
   margin-bottom: 0;
 }
 
-/* Key Dates */
-.key-dates {
+/* Venues */
+.venues {
   background-color: var(--bg-primary);
 }
 
-.dates-list {
-  max-width: 600px;
-  margin: 0 auto;
-  list-style: none;
-  padding: 0;
+.venue-item {
+  margin-bottom: var(--spacing-2xl);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
 }
 
-.dates-list li {
-  padding: var(--spacing-md);
-  border-bottom: 1px solid var(--border-color);
+.venue-item:last-child {
+  margin-bottom: 0;
+}
+
+.venue-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.venue-info {
+  padding: var(--spacing-lg);
+}
+
+.venue-info h3 {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.venue-info p {
+  color: var(--text-secondary);
   font-size: 1.125rem;
-}
-
-.dates-list li:last-child {
-  border-bottom: none;
+  margin-bottom: 0;
 }
 
 /* ===================================

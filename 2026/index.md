@@ -10,8 +10,8 @@ year: 2026
     <div class="hero-logo">
       <img src="{{ '/assets/images/amlc-hero-logo.svg' | relative_url }}" alt="Applied Machine Learning Conference">
     </div>
+    <p class="hero-date">April 17-18, 2026</p>
     <p class="hero-subtitle">Charlottesville, Virginia</p>
-    <p class="hero-date">April 2026</p>
     <div class="hero-cta">
       <a href="{{ '/2026/cfp/' | relative_url }}" class="btn btn-primary">Submit a Proposal</a>
       <a href="{{ '/2026/sponsors/' | relative_url }}" class="btn btn-secondary">Become a Sponsor</a>
@@ -22,7 +22,9 @@ year: 2026
 <section class="about">
   <div class="container">
     <h2>About the Conference</h2>
-    <p>The Applied Machine Learning Conference brings together data scientists, ML engineers, researchers, and practitioners from across the region to share knowledge, learn from each other, and advance the field of applied machine learning and AI.</p>
+    <p>The Applied Machine Learning Conference is a two-day, in-person event that brings together data scientists, AI engineers, computational researchers, and other technical leaders from across the country to share knowledge, learn from each other, and advance the fields of applied machine learning, AI, and scientific computing.</p>
+    <p>The first day of the conference will feature keynotes, standard conference talks, and plentiful networking opporunities, while day two will be filled with practical, 90-minute tutorials diving deeper into the latest tools and techniques in use by data science and AI professionals.
+    </p>
   </div>
 </section>
 
@@ -31,11 +33,11 @@ year: 2026
     <div class="highlights-grid">
       <div class="highlight-item">
         <h3>Technical Talks</h3>
-        <p>Learn from industry experts and researchers about the latest developments in ML and AI.</p>
+        <p>Learn from industry experts and academic researchers about the latest developments in data science and AI.</p>
       </div>
       <div class="highlight-item">
-        <h3>Hands-on Workshops</h3>
-        <p>Practical sessions to build your skills and learn new tools and techniques.</p>
+        <h3>Practical Tutorials</h3>
+        <p>Participate in hands-on sessions to build your skills and learn new tools and techniques.</p>
       </div>
       <div class="highlight-item">
         <h3>Networking</h3>
@@ -45,22 +47,24 @@ year: 2026
   </div>
 </section>
 
-<section class="key-dates">
+<section class="venues">
   <div class="container">
-    <h2>Key Dates</h2>
-    <ul class="dates-list">
-      <li>
-        <strong>Call for Proposals Opens:</strong> TBD
-      </li>
-      <li>
-        <strong>CFP Deadline:</strong> TBD
-      </li>
-      <li>
-        <strong>Speaker Notifications:</strong> TBD
-      </li>
-      <li>
-        <strong>Conference Dates:</strong> April 2026
-      </li>
-    </ul>
+    <h2>Venues</h2>
+    <div class="venue-item">
+      <img src="{{ '/assets/images/venue-day1.jpg' | relative_url }}" alt="Violet Crown Charlottesville">
+      <div class="venue-info">
+        <h3>Friday, April 17: Keynotes, Technical Talks, and Networking</h3>
+        <p><b>Violet Crown Cimena</b></p>
+        <p><i>200 West Main Street, Charlottesville, VA 22902</i></p>
+      </div>
+    </div>
+    <div class="venue-item">
+      <img src="{{ '/assets/images/venue-day2.jpg' | relative_url }}" alt="UVA School of Data Science">
+      <div class="venue-info">
+        <h3>Saturday, April 18: Practical Tutorials</h3>
+        <p><b>UVA School of Data Science</b></p>
+        <p><i>1919 Ivy Road, Charlottesville, VA 22904</i></p>
+      </div>
+    </div>
   </div>
 </section>
