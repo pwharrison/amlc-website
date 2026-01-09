@@ -23,7 +23,7 @@ year: 2026
   <div class="container">
     <h2>About the Conference</h2>
     <p>The Applied Machine Learning Conference is a two-day, in-person event that brings together data scientists, AI engineers, computational researchers, and other technical leaders from across the country to share knowledge, learn from each other, and advance the fields of applied machine learning, AI, and scientific computing.</p>
-    <p>The first day of the conference will feature keynotes, standard conference talks, and plentiful networking opporunities, while day two will be filled with practical, 90-minute tutorials diving deeper into the latest tools and techniques in use by data science and AI professionals.
+    <p>The first day of the conference will feature keynotes, standard conference talks, and plentiful networking opportunities, while day two will be filled with practical, 90-minute tutorials diving deeper into the latest tools and techniques used by modern data science and AI professionals.
     </p>
   </div>
 </section>
@@ -55,7 +55,8 @@ year: 2026
       <div class="venue-info">
         <h3>Friday, April 17: Keynotes, Technical Talks, and Networking</h3>
         <p><b>Violet Crown Cimena</b></p>
-        <p><i>200 West Main Street, Charlottesville, VA 22902</i></p>
+        <p><i>200 West Main Street</i></p>
+        <p><i>Charlottesville, VA 22902</i></p>
       </div>
     </div>
     <div class="venue-item">
@@ -63,7 +64,8 @@ year: 2026
       <div class="venue-info">
         <h3>Saturday, April 18: Practical Tutorials</h3>
         <p><b>UVA School of Data Science</b></p>
-        <p><i>1919 Ivy Road, Charlottesville, VA 22904</i></p>
+        <p><i>1919 Ivy Road</i></p>
+        <p><i>Charlottesville, VA 22904</i></p>
       </div>
     </div>
   </div>
