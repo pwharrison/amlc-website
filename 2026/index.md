@@ -14,7 +14,8 @@ year: 2026
     <p class="hero-subtitle">Charlottesville, Virginia</p>
     <div class="hero-cta">
       <a href="{{ '/2026/cfp/' | relative_url }}" class="btn btn-primary">Submit a Proposal</a>
-      <a href="{{ '/2026/sponsors/' | relative_url }}" class="btn btn-secondary">Become a Sponsor</a>
+      <a href="{{ '/2026/register/' | relative_url }}" class="btn btn-primary">Buy Tickets</a>
+      <a href="{{ '/2026/sponsors/' | relative_url }}" class="btn btn-primary">Become a Sponsor</a>
     </div>
   </div>
 </div>
