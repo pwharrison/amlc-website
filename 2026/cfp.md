@@ -7,25 +7,25 @@ year: 2026
 
 # Call for Proposals
 
-We're seeking proposals for talks and workshops that share knowledge, insights, and practical applications of machine learning and AI.
+The Call for Proposals for the 2026 Applied Machine Learning Conference will open soon. We are seeking proposals for 40-minute talks and 90-minute tutorials that share knowledge, insights, and practical experience in data science, AI, machine learning, and related fields.
 
-## Important Dates
+### Get Notified with the Call for Proposals Opens
 
-- **CFP Opens:** TBD
-- **CFP Deadline:** TBD
-- **Speaker Notifications:** TBD
-- **Conference Dates:** April 2026
+Enter your email address below to receive an announcement when the Call for Proposals opens for submissions:
+
+<div class="email-signup-form">
+<script async src="https://eomail5.com/form/9bb8e160-eda2-11f0-afeb-e7ab2587a684.js" data-form="9bb8e160-eda2-11f0-afeb-e7ab2587a684"></script>
+</div>
 
 ## Talk Formats
 
-### Technical Talks (30 minutes)
+### Technical Talks (40 minutes)
+
 Standard conference talks covering technical topics, case studies, or novel applications of ML/AI.
 
-### Lightning Talks (10 minutes)
-Quick, focused presentations on specific tools, techniques, or ideas.
+### Tutorials (90 minutes)
 
-### Workshops (90 minutes)
-Hands-on sessions where attendees learn by doing. Workshop leaders should provide clear prerequisites and setup instructions.
+Hands-on sessions where attendees learn by doing. Tutorial presenters should provide clear prerequisites and setup instructions.
 
 ## Topics of Interest
 
