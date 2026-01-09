@@ -655,6 +655,16 @@ section h2 {
 }
 
 /* ===================================
+   Email Signup Form
+   =================================== */
+
+.email-signup-form {
+  max-width: 500px;
+  margin: var(--spacing-xl) auto;
+  padding: var(--spacing-lg);
+}
+
+/* ===================================
    Utilities
    =================================== */
 
