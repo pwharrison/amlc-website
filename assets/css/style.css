@@ -499,6 +499,21 @@ section h2 {
   margin-bottom: 0;
 }
 
+/* Content Images */
+.content-image {
+  margin-bottom: var(--spacing-2xl);
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+}
+
+.content-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* ===================================
    Inner Pages
    =================================== */
