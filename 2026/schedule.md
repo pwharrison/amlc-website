@@ -7,9 +7,9 @@ year: 2026
 
 # Conference Schedule
 
-The detailed schedule will be published once our speaker lineup is confirmed.
+Check back soon for more information about the conference schedule!
 
-## Conference Format
+<!--## Conference Format
 
 The 2026 Applied Machine Learning Conference will feature:
 
@@ -20,8 +20,4 @@ The 2026 Applied Machine Learning Conference will feature:
 - **Networking breaks** to connect with fellow attendees
 - **Sponsor exhibitions** to explore the latest tools and services
 
-Check back soon for the full schedule!
-
-## Stay Updated
-
-[Subscribe to our mailing list](#) to receive updates when the schedule is announced.
+Check back soon for the full schedule!-->

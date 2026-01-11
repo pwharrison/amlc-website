@@ -7,9 +7,9 @@ year: 2026
 
 # Sponsors
 
-Sponsorship opportunities for the 2026 Applied Machine Learning Conference help support our vibrant community of data scientists, ML engineers, and AI practitioners.
+Check back soon for more information about sponsorship opportunities for the 2026 Applied Machine Learning Conference!
 
-## Why Sponsor?
+<!--## Why Sponsor?
 
 - **Visibility:** Connect with hundreds of ML/AI professionals and enthusiasts
 - **Talent:** Meet potential hires in a technical, engaged environment
@@ -56,4 +56,4 @@ Early commitment sponsors will receive priority placement and recognition.
 
 *Sponsor logos will appear here as they join us.*
 
-Thank you to our sponsors for making this conference possible!
+Thank you to our sponsors for making this conference possible!-->
