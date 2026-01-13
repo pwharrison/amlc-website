@@ -50,7 +50,7 @@ year: 2026
 
 <section class="venues">
   <div class="container">
-    <h2>Venues</h2>
+    <h2>Dates and Venues</h2>
     <div class="venue-item">
       <img src="{{ '/assets/images/venue-day1.jpg' | relative_url }}" alt="Violet Crown Charlottesville">
       <div class="venue-info">
