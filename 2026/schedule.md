@@ -7,17 +7,12 @@ year: 2026
 
 # Conference Schedule
 
-Check back soon for more information about the conference schedule!
+We will continue to update this page as more information about the conference schedule becomes available. Check back soon!
 
-<!--## Conference Format
+## Friday, April 17, 2026: Talk Day
 
-The 2026 Applied Machine Learning Conference will feature:
+The first day of the conference will feature keynote presentations, multiple tracks of 40-minute talks, lightning talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
 
-- **Keynote presentations** from industry leaders and researchers
-- **Technical talks** covering a wide range of ML/AI topics
-- **Lightning talks** for quick knowledge sharing
-- **Hands-on workshops** for practical skill building
-- **Networking breaks** to connect with fellow attendees
-- **Sponsor exhibitions** to explore the latest tools and services
+## Saturday, April 18, 2026: Tutorial Day
 
-Check back soon for the full schedule!-->
+The second day will feature multiple tracks of practical tutorials at the School of Data Science at the University of Virginia.

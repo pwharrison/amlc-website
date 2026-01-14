@@ -694,3 +694,72 @@ section h2 {
 .mt-lg {
   margin-top: var(--spacing-lg);
 }
+
+/* ===================================
+   Sponsorship Table
+   =================================== */
+
+.sponsorship-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  font-family: var(--font-family);
+}
+
+.sponsorship-table th,
+.sponsorship-table td {
+  border: 1px solid var(--border-color);
+  padding: 12px 15px;
+  text-align: center;
+}
+
+.sponsorship-table thead th {
+  background-color: var(--bg-secondary);
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 1.1em;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.sponsorship-table tbody tr {
+  background-color: transparent;
+  transition: background-color var(--transition-fast);
+}
+
+.sponsorship-table tbody tr:hover {
+  background-color: rgba(96, 165, 250, 0.05);
+}
+
+.sponsorship-table tbody td:first-child {
+  text-align: left;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.sponsorship-table .price-row {
+  font-size: 1.3em;
+  font-weight: bold;
+  color: var(--primary-color);
+}
+
+.sponsorship-table .price-row td:first-child {
+  color: var(--text-secondary);
+}
+
+.sponsorship-table .checkmark {
+  color: var(--primary-color);
+  font-size: 1.5em;
+}
+
+.sponsorship-table .limit-note {
+  font-size: 0.85em;
+  color: var(--text-light);
+  display: block;
+  margin-top: 4px;
+}
+
+.sponsorship-note {
+  margin-top: 1em;
+  font-style: italic;
+  color: var(--text-secondary);
+}
