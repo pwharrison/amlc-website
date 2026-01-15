@@ -54,7 +54,7 @@ year: 2026
       <img src="{{ '/assets/images/venue-day1.jpg' | relative_url }}" alt="Violet Crown Charlottesville">
       <div class="venue-info">
         <h3>Friday, April 17: Keynotes, Technical Talks, and Networking</h3>
-        <p><b>Violet Crown Cimena</b></p>
+        <p><b>Violet Crown Cinema</b></p>
         <p><i>200 West Main Street</i></p>
         <p><i>Charlottesville, VA 22902</i></p>
       </div>
