@@ -51,7 +51,7 @@ Alternative accommodations can be found on short-term rental sites like Airbnb, 
   <img src="{{ '/assets/images/downtown-mall.jpg' | relative_url }}" alt="The Downtown Mall in Charlottesville, Virginia">
 </div>
 
-Charlottesville is a vibrant community nestled in the foothills of the Blue Ridge Mountains. Home to the University of Virginia and a thriving data and tech community, it offers:
+Charlottesville is a vibrant city nestled in the foothills of the Blue Ridge Mountains. Home to the University of Virginia and a thriving data and tech community, it offers:
 
 - Rich history and culture
 - Beautiful natural surroundings
@@ -64,5 +64,5 @@ While you're in Charlottesville, consider exploring:
 - The **Historic Downtown Mall**, a lively, pedestrian-only district packed with locally-owned shops, restaurants, galleries, and entertainment venues
 - **Monticello**, the home of Thomas Jefferson and a UNESCO World Heritage Site
 - The **University of Virginia**, also a UNESCO World Heritage Site and one of the top public universities in the United States
-- **Scenic wineries and breweries**, of which there are dozens around the city
+- **Scenic wineries and breweries** — there are dozens around the city
 - The **Shenandoah National Park and the Appalachian Trail**, which are a short drive away
