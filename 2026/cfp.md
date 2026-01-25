@@ -7,7 +7,7 @@ year: 2026
 
 # Call for Proposals
 
-The Call for Proposals for the 2026 Applied Machine Learning Conference will open soon. We are seeking proposals for 40-minute talks and 90-minute tutorials that share knowledge, insights, and practical experience in data science, AI, machine learning, and related fields.
+The Call for Proposals for the 2026 Applied Machine Learning Conference will open soon. We are seeking proposals for 30-minute talks and 90-minute tutorials that share knowledge, insights, and practical experience in data science, AI, machine learning, and related fields.
 
 **Speakers will receive a free ticket for the entire event.** **All presentations will be given live and in-person.** **Please note that speakers are responsible for providing their own travel and lodging accommodations.**
 
@@ -45,7 +45,7 @@ The 2026 Applied Machine Learning Conference will feature two main types of sess
   <img src="{{ '/assets/images/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
 </div>
 
-Talks are 40-minute presentations, including time for audience Q&A. They often include slides and demos, and tend to feature less audience interaction than tutorials. All talks will be delivered on the first day, Friday, April 17, at the Violet Crown Cinema, an upscale movie theater in downtown Charlottesville. See your work projected on the big screen like never before!
+Talks are 30-minute presentations, including time for audience Q&A. They often include slides and demos, and tend to feature less audience interaction than tutorials. All talks will be delivered on the first day, Friday, April 17, at the Violet Crown Cinema, an upscale movie theater in downtown Charlottesville. See your work projected on the big screen like never before!
 
 ### Tutorials: Saturday, April 18
 

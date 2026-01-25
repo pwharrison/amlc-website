@@ -11,7 +11,7 @@ We will continue to update this page as more information about the conference sc
 
 ## Friday, April 17, 2026: Talk Day
 
-The first day of the conference will feature keynote presentations, multiple tracks of 40-minute talks, lightning talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
+The first day of the conference will feature keynote presentations, multiple tracks of 30-minute talks, lightning talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
 
 ## Saturday, April 18, 2026: Tutorial Day
 
