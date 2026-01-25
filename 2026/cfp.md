@@ -32,7 +32,7 @@ The Program Committee welcomes proposals for talks and tutorials covering a wide
 - **Machine Learning Methods:** Computer vision, embeddings and vector search, recommendation systems, geospatial data analysis, time series forecasting, NLP beyond LLMs, reinforcement learning
 - **Tools, Infrastructure & Engineering:** MLOps and model deployment, data pipelines, feature stores, experiment tracking, cloud and edge computing, open-source tools and frameworks
 - **Data Analysis & Visualization:** Exploratory data analysis, tools and methods for data visualization, dashboards and analytics, communicating insights from data effectively
-- **Classical Modeling Approaches:** Statistical methods, causal inference, probabilistic programming, scientific computing, simulation, network science, reproducible research
+- **Classical Modeling Approaches:** Statistical methods, causal inference, probabilistic programming, simulation modeling, network science, reproducible research
 - **Organizational and Societal Context:** Managing data science and AI projects in a company setting; the data science and AI job market; ethics, responsibility, and fairness in data science and AI initiatives; data security, privacy, and regulatory concerns; and so on
 
 ## Session Types
@@ -45,7 +45,7 @@ The 2026 Applied Machine Learning Conference will feature two main types of sess
   <img src="{{ '/assets/images/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
 </div>
 
-Talks are 40-minute presentations, including time for audience Q&A. They often include slides and demos, and tend to feature less audience interaction than tutorials. All talks will be delivered on the first day, Friday, April 17, at the Violet Crown Cinema in downtown Charlottesville.
+Talks are 40-minute presentations, including time for audience Q&A. They often include slides and demos, and tend to feature less audience interaction than tutorials. All talks will be delivered on the first day, Friday, April 17, at the Violet Crown Cinema, an upscale movie theater in downtown Charlottesville. See your work projected on the big screen like never before!
 
 ### Tutorials: Saturday, April 18
 
