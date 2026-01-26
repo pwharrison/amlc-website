@@ -12,7 +12,7 @@ The Call for Proposals for the 2026 Applied Machine Learning Conference is now o
 **Speakers will receive a free ticket for the entire event.** **All presentations will be given live and in-person.** **Please note that speakers are responsible for providing their own travel and lodging accommodations.**
 
 <div class="cta-buttons">
-  <a href="https://sessionize.com/2026-applied-machine-learning-conference/" class="btn btn-primary">Submit Proposals Here</a>
+  <a href="https://sessionize.com/2026-applied-machine-learning-conference/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Submit Proposals Here</a>
 </div>
 
 ## Submission Deadline
@@ -74,5 +74,5 @@ After reading your description, a conference attendee should have a clear sense 
 - Proposals that appear to be sales pitches for commercial products and services are unlikely to be accepted. We encourage vendors to consider our <a href="{{ '/2026/sponsors/' | relative_url }}">sponsorship options</a> as an alternative way to engage with the Applied Machine Learning Conference audience.
 
 <div class="cta-buttons">
-  <a href="https://sessionize.com/2026-applied-machine-learning-conference/" class="btn btn-primary">Submit Proposals Here</a>
+  <a href="https://sessionize.com/2026-applied-machine-learning-conference/" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Submit Proposals Here</a>
 </div>
