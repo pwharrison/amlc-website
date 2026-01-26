@@ -357,6 +357,14 @@ strong {
    Buttons
    =================================== */
 
+.cta-buttons {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: var(--spacing-lg) 0;
+}
+
 .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
@@ -639,7 +647,8 @@ section h2 {
     font-size: 1rem;
   }
 
-  .hero-cta {
+  .hero-cta,
+  .cta-buttons {
     flex-direction: column;
     align-items: stretch;
   }

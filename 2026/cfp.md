@@ -7,16 +7,12 @@ year: 2026
 
 # Call for Proposals
 
-The Call for Proposals for the 2026 Applied Machine Learning Conference will open soon. We are seeking proposals for 30-minute talks and 90-minute tutorials that share knowledge, insights, and practical experience in data science, AI, machine learning, and related fields.
+The Call for Proposals for the 2026 Applied Machine Learning Conference is now open. We are seeking proposals for 30-minute talks and 90-minute tutorials that share knowledge, insights, and practical experience in data science, AI, machine learning, and related fields. Whether this is your first conference talk or your fiftieth, we're looking for speakers from a variety of backgrounds and experience levels.
 
 **Speakers will receive a free ticket for the entire event.** **All presentations will be given live and in-person.** **Please note that speakers are responsible for providing their own travel and lodging accommodations.**
 
-### Get Notified When the Call for Proposals Opens
-
-Enter your email address below to receive an announcement when the Call for Proposals opens for submissions:
-
-<div class="email-signup-form">
-<script async src="https://eomail5.com/form/9bb8e160-eda2-11f0-afeb-e7ab2587a684.js" data-form="9bb8e160-eda2-11f0-afeb-e7ab2587a684"></script>
+<div class="cta-buttons">
+  <a href="https://sessionize.com/2026-applied-machine-learning-conference/" class="btn btn-primary">Submit Proposals Here</a>
 </div>
 
 ## Submission Deadline
@@ -55,4 +51,28 @@ Talks are 30-minute presentations, including time for audience Q&A. They often i
 
 Tutorials are longer 90-minute sessions that more closely resemble a classroom setting. They tend to dive deeper into how to use a particular tool, technique, framework, modeling methodology used by modern data science and AI researchers and practitioners. They usually offer more opportunities for audience interaction, such as live demonstrations, coding along, or hands-on exercises. Tutorials often also include additional resources for participants to use during the session, such as code repositories, example datasets, hosted computational notebooks, and so on.
 
-All tutorials will be delievered on the second day, Saturday, April 18, at the University of Virginia School of Data Science.
+All tutorials will be delivered on the second day, Saturday, April 18, at the University of Virginia School of Data Science.
+
+## What Makes a Strong Proposal?
+
+A proposal has two jobs: to persuade the Program Committee to accept your session, and to convince conference attendees to show up. If your proposal is accepted, the session title and description you submit will appear in the conference program, so write them with both of these audiences in mind.
+
+**Strong proposals typically include:**
+
+- What the topic is and why it matters right now
+- Who will benefit most from attending (and what background knowledge they'll need)
+- The central ideas or techniques you'll cover
+- Concrete takeaways the audience can expect
+
+After reading your description, a conference attendee should have a clear sense of what your session is about and whether it's right for them.
+
+**A few tips:**
+
+- Consider asking friends and colleagues with relevant experience to review your proposal and provide feedback before submitting it.
+- For tutorials, consider highlighting what attendees will be able to _do_ afterward, and mention any technical prerequisites they'll need.
+- We especially welcome proposals featuring open-source tools and frameworks that attendees can explore and use themselves afterward.
+- Proposals that appear to be sales pitches for commercial products and services are unlikely to be accepted. We encourage vendors to consider our <a href="{{ '/2026/sponsors/' | relative_url }}">sponsorship options</a> as an alternative way to engage with the Applied Machine Learning Conference audience.
+
+<div class="cta-buttons">
+  <a href="https://sessionize.com/2026-applied-machine-learning-conference/" class="btn btn-primary">Submit Proposals Here</a>
+</div>
