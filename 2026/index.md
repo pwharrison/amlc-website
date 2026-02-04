@@ -47,6 +47,28 @@ year: 2026
   </div>
 </section>
 
+<section class="featured-speaker">
+  <div class="container">
+    <h2>Featured Speaker</h2>
+    <details class="speaker-card">
+      <summary class="speaker-summary">
+        <div class="speaker-headshot">
+          <img src="{{ '/assets/images/vicki-boykis.png' | relative_url }}" alt="Vicki Boykis">
+        </div>
+        <span class="speaker-name-row">
+          <svg class="speaker-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="9 6 15 12 9 18"></polyline>
+          </svg>
+          <span class="speaker-name">Vicki Boykis</span>
+        </span>
+      </summary>
+      <div class="speaker-bio">
+        <p><i>Vicki is a founding ML engineer at Malachyte. Previously, she built LLM-evaluation tooling at Mozilla.ai and search/recommendation systems at Duo and Tumblr. She writes about scalable ML in production, information retrieval, and human-centric AI. She previously organized NormConf, a conference about everyday machine learning. She keynoted PyData Amsterdam and PyCon Italia. In her "free time", she writes short stories, learns to DJ by making terrible mixes and loves Nutella.</i></p>
+      </div>
+    </details>
+  </div>
+</section>
+
 <section class="venues">
   <div class="container">
     <h2>Dates and Venues</h2>
@@ -70,3 +92,39 @@ year: 2026
     </div>
   </div>
 </section>
+
+<script>
+  (function() {
+    var card = document.querySelector('.speaker-card');
+    if (!card) return;
+    var bio = card.querySelector('.speaker-bio');
+    var summary = card.querySelector('.speaker-summary');
+
+    summary.addEventListener('click', function(e) {
+      e.preventDefault();
+      if (card.open) {
+        bio.style.height = bio.scrollHeight + 'px';
+        requestAnimationFrame(function() {
+          bio.classList.remove('is-open');
+          bio.style.height = '0';
+        });
+        bio.addEventListener('transitionend', function handler() {
+          bio.removeEventListener('transitionend', handler);
+          card.open = false;
+        });
+      } else {
+        card.open = true;
+        var targetHeight = bio.scrollHeight;
+        bio.style.height = '0';
+        requestAnimationFrame(function() {
+          bio.classList.add('is-open');
+          bio.style.height = targetHeight + 'px';
+        });
+        bio.addEventListener('transitionend', function handler() {
+          bio.removeEventListener('transitionend', handler);
+          bio.style.height = 'auto';
+        });
+      }
+    });
+  })();
+</script>
