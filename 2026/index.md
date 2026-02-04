@@ -49,7 +49,7 @@ year: 2026
 
 <section class="featured-speaker">
   <div class="container">
-    <h2>Featured Speaker</h2>
+    <h2>Keynote Speaker</h2>
     <details class="speaker-card">
       <summary class="speaker-summary">
         <div class="speaker-headshot">
