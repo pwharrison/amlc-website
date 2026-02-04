@@ -637,6 +637,42 @@ section h2 {
   margin-bottom: 0;
 }
 
+/* Speaker Profile (inline layout for inner pages) */
+.speaker-profile {
+  display: flex;
+  gap: var(--spacing-lg);
+  align-items: center;
+  margin-bottom: var(--spacing-xl);
+}
+
+.speaker-profile-headshot {
+  width: 160px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid var(--border-color);
+  background-color: var(--bg-secondary);
+}
+
+.speaker-profile-headshot img {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.speaker-profile-info h3 {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  margin-bottom: var(--spacing-sm);
+}
+
+.speaker-profile-info p {
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
 /* ===================================
    Inner Pages
    =================================== */
@@ -796,6 +832,21 @@ section h2 {
 
   .speaker-bio p {
     font-size: 1rem;
+  }
+
+  .speaker-profile {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: var(--spacing-sm);
+  }
+
+  .speaker-profile-info h3 {
+    margin-top: 0;
+  }
+
+  .speaker-profile-headshot {
+    width: 140px;
   }
 
   .footer-content {
