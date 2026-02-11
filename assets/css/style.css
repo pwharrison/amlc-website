@@ -513,9 +513,18 @@ section h2 {
 
 /* Sponsors */
 .sponsors {
-  background-color: var(--bg-primary);
   padding-top: var(--spacing-lg);
   padding-bottom: var(--spacing-lg);
+  background-color: var(--bg-primary);
+}
+
+.page-article .sponsors {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+}
+
+.page-article .sponsors h2 {
+  text-align: center;
 }
 
 .sponsors h3 {
