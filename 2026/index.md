@@ -93,6 +93,20 @@ year: 2026
   </div>
 </section>
 
+<section class="sponsors">
+  <div class="container">
+    <h2>Thank You to Our Sponsors</h2>
+    <h3>Diamond</h3>
+    <div class="sponsor-logos sponsor-tier-diamond">
+      <div class="sponsor-item">
+        <img src="{{ '/assets/images/sponsor-uva-data-science.svg' | relative_url }}" alt="UVA Data Science">
+        <span class="sponsor-label">Event Host</span>
+      </div>
+      <img src="{{ '/assets/images/sponsor-sp-global.svg' | relative_url }}" alt="S&P Global">
+    </div>
+  </div>
+</section>
+
 <script>
   (function() {
     var card = document.querySelector('.speaker-card');
