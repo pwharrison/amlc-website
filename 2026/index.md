@@ -49,23 +49,43 @@ year: 2026
 
 <section class="featured-speaker">
   <div class="container">
-    <h2>Keynote Speaker</h2>
-    <details class="speaker-card">
-      <summary class="speaker-summary">
-        <div class="speaker-headshot">
-          <img src="{{ '/assets/images/vicki-boykis.png' | relative_url }}" alt="Vicki Boykis">
+    <h2>Keynote Speakers</h2>
+    <div class="speaker-cards">
+      <details class="speaker-card">
+        <summary class="speaker-summary">
+          <div class="speaker-headshot">
+            <img src="{{ '/assets/images/vicki-boykis.png' | relative_url }}" alt="Vicki Boykis">
+          </div>
+          <span class="speaker-name-row">
+            <svg class="speaker-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="9 6 15 12 9 18"></polyline>
+            </svg>
+            <span class="speaker-name">Vicki Boykis</span>
+          </span>
+          <span class="speaker-tagline">Founding ML Engineer, Malachyte</span>
+        </summary>
+        <div class="speaker-bio">
+          <p><i>Vicki is a founding ML engineer at Malachyte. Previously, she built LLM-evaluation tooling at Mozilla.ai and search/recommendation systems at Duo and Tumblr. She writes about scalable ML in production, information retrieval, and human-centric AI. She previously organized NormConf, a conference about everyday machine learning. She keynoted PyData Amsterdam and PyCon Italia. In her "free time", she writes short stories, learns to DJ by making terrible mixes and loves Nutella.</i></p>
         </div>
-        <span class="speaker-name-row">
-          <svg class="speaker-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <polyline points="9 6 15 12 9 18"></polyline>
-          </svg>
-          <span class="speaker-name">Vicki Boykis</span>
-        </span>
-      </summary>
-      <div class="speaker-bio">
-        <p><i>Vicki is a founding ML engineer at Malachyte. Previously, she built LLM-evaluation tooling at Mozilla.ai and search/recommendation systems at Duo and Tumblr. She writes about scalable ML in production, information retrieval, and human-centric AI. She previously organized NormConf, a conference about everyday machine learning. She keynoted PyData Amsterdam and PyCon Italia. In her "free time", she writes short stories, learns to DJ by making terrible mixes and loves Nutella.</i></p>
-      </div>
-    </details>
+      </details>
+      <details class="speaker-card">
+        <summary class="speaker-summary">
+          <div class="speaker-headshot">
+            <img src="{{ '/assets/images/david-luebke.png' | relative_url }}" alt="David Luebke">
+          </div>
+          <span class="speaker-name-row">
+            <svg class="speaker-chevron" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="9 6 15 12 9 18"></polyline>
+            </svg>
+            <span class="speaker-name">David Luebke</span>
+          </span>
+          <span class="speaker-tagline">Co-founder of NVIDIA Research</span>
+        </summary>
+        <div class="speaker-bio">
+          <p><i>Dr. David Luebke helped found NVIDIA Research in 2006 after eight years on the faculty of the University of Virginia. Luebke received his Ph.D. under Fred Brooks at the University of North Carolina in 1998. His principal research interests are computer graphics, generative neural networks, and virtual reality. Luebke is a Fellow of the IEEE and an inaugural inductee into the IEEE VR Academy. His other honors include the NVIDIA Distinguished Inventor award, the IEEE VR Technical Achievement Award, and Test of Time Awards at ACM SIGGRAPH Asia and the ACM Symposium on Interactive 3D Graphics. Dr. Luebke has co-authored a book, a major museum exhibit, and over two hundred papers, articles, chapters, and patents. Luebke is currently Vice President of Research at NVIDIA, where he runs a group of about 35 researchers focused on "New Experiences".</i></p>
+        </div>
+      </details>
+    </div>
   </div>
 </section>
 
@@ -109,36 +129,37 @@ year: 2026
 
 <script>
   (function() {
-    var card = document.querySelector('.speaker-card');
-    if (!card) return;
-    var bio = card.querySelector('.speaker-bio');
-    var summary = card.querySelector('.speaker-summary');
+    var cards = document.querySelectorAll('.speaker-card');
+    cards.forEach(function(card) {
+      var bio = card.querySelector('.speaker-bio');
+      var summary = card.querySelector('.speaker-summary');
 
-    summary.addEventListener('click', function(e) {
-      e.preventDefault();
-      if (card.open) {
-        bio.style.height = bio.scrollHeight + 'px';
-        requestAnimationFrame(function() {
-          bio.classList.remove('is-open');
+      summary.addEventListener('click', function(e) {
+        e.preventDefault();
+        if (card.open) {
+          bio.style.height = bio.scrollHeight + 'px';
+          requestAnimationFrame(function() {
+            bio.classList.remove('is-open');
+            bio.style.height = '0';
+          });
+          bio.addEventListener('transitionend', function handler() {
+            bio.removeEventListener('transitionend', handler);
+            card.open = false;
+          });
+        } else {
+          card.open = true;
+          var targetHeight = bio.scrollHeight;
           bio.style.height = '0';
-        });
-        bio.addEventListener('transitionend', function handler() {
-          bio.removeEventListener('transitionend', handler);
-          card.open = false;
-        });
-      } else {
-        card.open = true;
-        var targetHeight = bio.scrollHeight;
-        bio.style.height = '0';
-        requestAnimationFrame(function() {
-          bio.classList.add('is-open');
-          bio.style.height = targetHeight + 'px';
-        });
-        bio.addEventListener('transitionend', function handler() {
-          bio.removeEventListener('transitionend', handler);
-          bio.style.height = 'auto';
-        });
-      }
+          requestAnimationFrame(function() {
+            bio.classList.add('is-open');
+            bio.style.height = targetHeight + 'px';
+          });
+          bio.addEventListener('transitionend', function handler() {
+            bio.removeEventListener('transitionend', handler);
+            bio.style.height = 'auto';
+          });
+        }
+      });
     });
   })();
 </script>

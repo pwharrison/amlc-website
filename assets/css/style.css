@@ -594,9 +594,15 @@ section h2 {
   padding-bottom: var(--spacing-lg);
 }
 
+.speaker-cards {
+  display: flex;
+  gap: var(--spacing-xl);
+  justify-content: center;
+}
+
 .speaker-card {
+  flex: 1;
   max-width: 600px;
-  margin: 0 auto;
   text-align: center;
 }
 
@@ -661,6 +667,13 @@ section h2 {
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--primary-color);
+}
+
+.speaker-tagline {
+  font-size: 0.95rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-top: -0.5rem;
 }
 
 .speaker-chevron {
@@ -876,6 +889,11 @@ section h2 {
 
   .highlights-grid {
     grid-template-columns: 1fr;
+  }
+
+  .speaker-cards {
+    flex-direction: column;
+    align-items: center;
   }
 
   .speaker-headshot {
