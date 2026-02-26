@@ -574,7 +574,7 @@ section h2 {
 
 /* Content Images */
 .content-image {
-  margin-bottom: var(--spacing-2xl);
+  margin-bottom: var(--spacing-lg);
   border-radius: 8px;
   overflow: hidden;
   background-color: var(--bg-secondary);

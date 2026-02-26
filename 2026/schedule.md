@@ -35,8 +35,16 @@ We will continue to update this page as more information about the conference sc
 
 ## Friday, April 17, 2026: Talk Day
 
+<div class="content-image">
+  <img src="{{ '/assets/images/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
+</div>
+
 The first day of the conference will feature keynote presentations, multiple tracks of 30-minute talks, lightning talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
 
 ## Saturday, April 18, 2026: Tutorial Day
 
-The second day will feature multiple tracks of practical tutorials at the School of Data Science at the University of Virginia.
+<div class="content-image">
+  <img src="{{ '/assets/images/cfp-tutorials.jpg' | relative_url }}" alt="Tutorials at UVA School of Data Science">
+</div>
+
+The second day will feature multiple tracks of practical, 90-minute tutorials at the School of Data Science at the University of Virginia.
