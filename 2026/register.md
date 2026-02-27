@@ -29,7 +29,7 @@ If you think this might apply to you, please pursue this route first. Many organ
 
 **Student** tickets are for students currently enrolled in an accredited educational institution. Graduate-level and Ph.D. students are welcome to register at the student rate. A valid student ID is required.
 
-Some university programs offer modest professional development benefits that can help cover the cost of conference registration. If this applies to you, please consider registering at one of the higher rates, depending on your budget.
+Some university programs offer modest professional development benefits that can help cover the cost of conference registration for students. If this applies to you, please consider registering at one of the higher rates, depending on your budget.
 
 A limited number of student tickets are available at the Early Bird rate, so get yours while supplies last!
 
@@ -123,7 +123,7 @@ We encourage Full Conference registration, but single-day tickets are a good opt
 
 ## Conference T-Shirt
 
-A limited edition 2026 AMLC T-Shirt is available as an optional add-on for all Full Conference, Friday Only, and Saturday Only tickets. If you order a shirt, you can pick it up when you check in on-site at the conference registration desk.
+A limited edition 2026 AMLC T-Shirt is available as an optional add-on with any ticket purchase. If you order a shirt, you can pick it up when you check in on-site at the conference registration desk.
 
 To allow time for production, T-Shirt sales will close a few weeks before the conference. Place your shirt orders early!
 
