@@ -9,6 +9,8 @@ year: 2026
 
 We will continue to update this page as more information about the conference schedule becomes available. Check back soon!
 
+To get a taste of what the 2026 conference program might be like, you can review the <a href="https://pydata.org/virginia2025/schedule" target="_blank">schedule for last year's event here</a>.
+
 ## Keynote Speakers
 
 <div class="speaker-profile">
@@ -47,4 +49,4 @@ The first day of the conference will feature keynote presentations, multiple tra
   <img src="{{ '/assets/images/cfp-tutorials.jpg' | relative_url }}" alt="Tutorials at UVA School of Data Science">
 </div>
 
-The second day will feature multiple tracks of practical, 90-minute tutorials at the School of Data Science at the University of Virginia.
+The second day will feature multiple tracks of practical, 90-minute tutorials at the University of Virginia's School of Data Science.
