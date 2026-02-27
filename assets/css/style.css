@@ -984,21 +984,21 @@ section h2 {
    Sponsorship Table
    =================================== */
 
-.sponsorship-table {
+.conference-table {
   width: 100%;
   border-collapse: collapse;
   margin: 2em 0;
   font-family: var(--font-family);
 }
 
-.sponsorship-table th,
-.sponsorship-table td {
+.conference-table th,
+.conference-table td {
   border: 1px solid var(--border-color);
   padding: 12px 15px;
   text-align: center;
 }
 
-.sponsorship-table thead th {
+.conference-table thead th {
   background-color: var(--bg-secondary);
   color: var(--primary-color);
   font-weight: 600;
@@ -1006,37 +1006,41 @@ section h2 {
   border-bottom: 2px solid var(--primary-color);
 }
 
-.sponsorship-table tbody tr {
+.conference-table tbody tr {
   background-color: transparent;
   transition: background-color var(--transition-fast);
 }
 
-.sponsorship-table tbody tr:hover {
+.conference-table tbody tr:hover {
   background-color: rgba(96, 165, 250, 0.05);
 }
 
-.sponsorship-table tbody td:first-child {
+.conference-table tbody td:first-child {
   text-align: left;
   font-weight: 500;
   color: var(--text-secondary);
 }
 
-.sponsorship-table .price-row {
+.conference-table .price-row {
   font-size: 1.3em;
   font-weight: bold;
   color: var(--primary-color);
 }
 
-.sponsorship-table .price-row td:first-child {
+.conference-table .price-row td:first-child {
   color: var(--text-secondary);
 }
 
-.sponsorship-table .checkmark {
+.conference-table .sub-row td:first-child {
+  padding-left: 2rem;
+}
+
+.conference-table .checkmark {
   color: var(--primary-color);
   font-size: 1.5em;
 }
 
-.sponsorship-table .limit-note {
+.conference-table .limit-note {
   font-size: 0.85em;
   color: var(--text-light);
   display: block;

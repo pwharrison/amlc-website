@@ -25,7 +25,7 @@ The Applied Machine Learning Conference brings together practitioners, researche
 
 ## Sponsor Benefits
 
-<table class="sponsorship-table">
+<table class="conference-table">
   <thead>
     <tr>
       <th></th>
