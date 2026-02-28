@@ -960,8 +960,8 @@ section h2 {
 
 .email-signup-form {
   max-width: 500px;
-  margin: var(--spacing-xl) auto;
-  padding: var(--spacing-lg);
+  margin: var(--spacing-sm) auto;
+  padding: var(--spacing-sm) 0 0 0;
 }
 
 /* ===================================

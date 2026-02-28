@@ -7,9 +7,13 @@ year: 2026
 
 # Conference Schedule
 
-We will continue to update this page as more information about the conference schedule becomes available. Check back soon!
+The full schedule for the 2026 Applied Machine Learning Conference will be released soon! If you'd like to receive a notification as soon as the conference schedule is available, please enter your email address below.
 
-To get a taste of what the 2026 conference program might be like, you can review the <a href="https://pydata.org/virginia2025/schedule" target="_blank">schedule for last year's event here</a>.
+<div class="email-signup-form">
+  <script async src="https://eomail5.com/form/3908d730-14dc-11f1-b664-bf483ec0c88a.js" data-form="3908d730-14dc-11f1-b664-bf483ec0c88a"></script>
+</div>
+
+To get a taste of what the 2026 conference program might be like, you can browse the <a href="https://pydata.org/virginia2025/schedule" target="_blank">schedule for last year's event here</a>.
 
 ## Keynote Speakers
 
