@@ -138,5 +138,9 @@ The Applied Machine Learning Conference brings together practitioners, researche
       </div>
       <img src="{{ '/assets/images/sponsor-sp-global.svg' | relative_url }}" alt="S&P Global">
     </div>
+    <h3>Gold</h3>
+    <div class="sponsor-logos sponsor-tier-gold">
+      <img src="{{ '/assets/images/sponsor-rotational-labs.svg' | relative_url }}" alt="Rotational Labs">
+    </div>
   </div>
 </div>
