@@ -12,7 +12,8 @@ year: 2026
     <p class="hero-date">April 17-18, 2026</p>
     <p class="hero-subtitle">Charlottesville, Virginia</p>
     <div class="hero-cta">
-<a href="{{ '/2026/register/' | relative_url }}" class="btn btn-primary">Buy Tickets</a>
+      <a href="{{ '/2026/register/' | relative_url }}" class="btn btn-primary">Buy Tickets</a>
+      <a href="{{ '/2026/schedule/' | relative_url }}" class="btn btn-primary">View the Schedule</a>
       <a href="{{ '/2026/sponsors/' | relative_url }}" class="btn btn-primary">Become a Sponsor</a>
     </div>
   </div>
