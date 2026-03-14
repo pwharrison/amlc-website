@@ -573,6 +573,11 @@ section h2 {
   width: auto;
 }
 
+/* Schedule Grid */
+.schedule-grid {
+  margin-bottom: var(--spacing-lg);
+}
+
 /* Content Images */
 .content-image {
   margin-bottom: var(--spacing-lg);

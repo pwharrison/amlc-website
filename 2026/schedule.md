@@ -7,37 +7,13 @@ year: 2026
 
 # Conference Schedule
 
-The full schedule for the 2026 Applied Machine Learning Conference will be released soon! If you'd like to receive a notification as soon as the conference schedule is available, please enter your email address below.
+The schedule for the 2026 Applied Machine Learning Conference is now available! Please review the schedule below, and <a href="{{ '/2026/register/' | relative_url }}">register for the conference</a> if you haven't already.
 
-<div class="email-signup-form">
-  <script async src="https://eomail5.com/form/3908d730-14dc-11f1-b664-bf483ec0c88a.js" data-form="3908d730-14dc-11f1-b664-bf483ec0c88a"></script>
+<div class="schedule-grid">
+  <script type="text/javascript" src="https://sessionize.com/api/v2/57gr89e0/view/GridSmart"></script>
 </div>
 
-To get a taste of what the 2026 conference program might be like, you can browse the <a href="https://pydata.org/virginia2025/schedule" target="_blank">schedule for last year's event here</a>.
-
-## Keynote Speakers
-
-<div class="speaker-profile">
-  <div class="speaker-profile-headshot">
-    <img src="{{ '/assets/images/vicki-boykis.png' | relative_url }}" alt="Vicki Boykis">
-  </div>
-  <div class="speaker-profile-info">
-    <h3>Vicki Boykis</h3>
-    <p><b><i>Founding ML Engineer, Malachyte</i></b></p>
-    <p>Vicki is a founding ML engineer at Malachyte. Previously, she built LLM-evaluation tooling at Mozilla.ai and search/recommendation systems at Duo and Tumblr. She writes about scalable ML in production, information retrieval, and human-centric AI. She previously organized NormConf, a conference about everyday machine learning. She keynoted PyData Amsterdam and PyCon Italia. In her "free time", she writes short stories, learns to DJ by making terrible mixes and loves Nutella.</p>
-  </div>
-</div>
-
-<div class="speaker-profile">
-  <div class="speaker-profile-headshot">
-    <img src="{{ '/assets/images/david-luebke.png' | relative_url }}" alt="David Luebke">
-  </div>
-  <div class="speaker-profile-info">
-    <h3>David Luebke</h3>
-    <p><b><i>Co-founder of NVIDIA Research</i></b></p>
-    <p>Dr. David Luebke helped found NVIDIA Research in 2006 after eight years on the faculty of the University of Virginia. Luebke received his Ph.D. under Fred Brooks at the University of North Carolina in 1998. His principal research interests are computer graphics, generative neural networks, and virtual reality. Luebke is a Fellow of the IEEE and an inaugural inductee into the IEEE VR Academy. His other honors include the NVIDIA Distinguished Inventor award, the IEEE VR Technical Achievement Award, and Test of Time Awards at ACM SIGGRAPH Asia and the ACM Symposium on Interactive 3D Graphics. Dr. Luebke has co-authored a book, a major museum exhibit, and over two hundred papers, articles, chapters, and patents. Luebke is currently Vice President of Research at NVIDIA, where he runs a group of about 35 researchers focused on "New Experiences".</p>
-  </div>
-</div>
+Please use the buttons at the top of the schedule to view the conference program for both Friday, April 17 and Saturday, April 18.
 
 ## Friday, April 17, 2026: Talk Day
 
@@ -45,7 +21,7 @@ To get a taste of what the 2026 conference program might be like, you can browse
   <img src="{{ '/assets/images/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
 </div>
 
-The first day of the conference will feature keynote presentations, multiple tracks of 30-minute talks, lightning talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
+The first day of the conference will feature keynote presentations, four tracks of 30-minute talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
 
 ## Saturday, April 18, 2026: Tutorial Day
 
@@ -53,4 +29,12 @@ The first day of the conference will feature keynote presentations, multiple tra
   <img src="{{ '/assets/images/cfp-tutorials.jpg' | relative_url }}" alt="Tutorials at UVA School of Data Science">
 </div>
 
-The second day will feature multiple tracks of practical, 90-minute tutorials at the University of Virginia's School of Data Science.
+The second day will feature three tracks of practical, 90-minute tutorials that dive deeper into the latest tools and techniques used by modern data science and AI professionals, as well as three sessions for lightning talks, at the University of Virginia's School of Data Science.
+
+## Conference Registration Now Open
+
+<a href="{{ '/2026/register/' | relative_url }}">Tickets for the 2026 Applied Machine Learning Conference are now on sale!</a> We expect the conference to sell out, so be sure to secure yours while they're still available.
+
+<div style="text-align: center;">
+  <a href="{{ '/2026/register/' | relative_url }}" class="btn btn-primary">Buy Tickets</a>
+</div>
