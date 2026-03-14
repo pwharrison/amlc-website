@@ -103,7 +103,7 @@ year: 2026
     <div class="venue-item">
       <img src="{{ '/assets/images/venue-day2.jpg' | relative_url }}" alt="UVA School of Data Science">
       <div class="venue-info">
-        <h3>Saturday, April 18: Practical Tutorials</h3>
+        <h3>Saturday, April 18: Practical Tutorials and Lightning Talks</h3>
         <p><b>UVA School of Data Science</b></p>
         <p><i>1919 Ivy Road</i></p>
         <p><i>Charlottesville, VA 22904</i></p>

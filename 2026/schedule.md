@@ -15,7 +15,7 @@ The schedule for the 2026 Applied Machine Learning Conference is now available! 
 
 Please use the buttons at the top of the schedule to view the conference program for both Friday, April 17 and Saturday, April 18.
 
-## Friday, April 17, 2026: Talk Day
+## Friday, April 17, 2026: Keynotes and Talks
 
 <div class="content-image">
   <img src="{{ '/assets/images/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
@@ -23,7 +23,7 @@ Please use the buttons at the top of the schedule to view the conference program
 
 The first day of the conference will feature keynote presentations, four tracks of 30-minute talks, ample networking opportunities, and sponsor exhibitions at the Violet Crown Cinema in Downtown Charlottesville.
 
-## Saturday, April 18, 2026: Tutorial Day
+## Saturday, April 18, 2026: Tutorials and Lightning Talks
 
 <div class="content-image">
   <img src="{{ '/assets/images/cfp-tutorials.jpg' | relative_url }}" alt="Tutorials at UVA School of Data Science">
