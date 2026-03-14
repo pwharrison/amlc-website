@@ -13,8 +13,6 @@ The schedule for the 2026 Applied Machine Learning Conference is now available! 
   <script type="text/javascript" src="https://sessionize.com/api/v2/57gr89e0/view/GridSmart"></script>
 </div>
 
-Please use the buttons at the top of the schedule to view the conference program for both Friday, April 17 and Saturday, April 18.
-
 ## Friday, April 17, 2026: Keynotes and Talks
 
 <div class="content-image">
