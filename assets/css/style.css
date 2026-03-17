@@ -512,6 +512,16 @@ section h2 {
 }
 
 /* Sponsors */
+.speaker-wall {
+  padding-top: var(--spacing-lg);
+  padding-bottom: var(--spacing-lg);
+  background-color: var(--bg-secondary);
+}
+
+.speaker-wall-grid {
+  margin-top: var(--spacing-md);
+}
+
 .sponsors {
   padding-top: var(--spacing-lg);
   padding-bottom: var(--spacing-lg);

@@ -113,6 +113,15 @@ year: 2026
   </div>
 </section>
 
+<section class="speaker-wall">
+  <div class="container">
+    <h2>Featured Speakers</h2>
+    <div class="speaker-wall-grid">
+      <script type="text/javascript" src="https://sessionize.com/api/v2/xnloaqcm/view/SpeakerWall"></script>
+    </div>
+  </div>
+</section>
+
 <section class="sponsors">
   <div class="container">
     <h2>Thank You to Our Sponsors</h2>
