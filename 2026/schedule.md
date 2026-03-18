@@ -10,7 +10,7 @@ year: 2026
 The schedule for the 2026 Applied Machine Learning Conference is now available! Please review the schedule below, and <a href="{{ '/2026/register/' | relative_url }}">register for the conference</a> if you haven't already.
 
 <div class="schedule-grid">
-  <script type="text/javascript" src="https://sessionize.com/api/v2/57gr89e0/view/GridSmart"></script>
+  <script type="text/javascript" src="https://sessionize.com/api/v2/8d3p5mdv/view/GridSmart"></script>
 </div>
 
 ## Friday, April 17, 2026: Keynotes and Talks
