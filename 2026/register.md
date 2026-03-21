@@ -29,8 +29,6 @@ If you think this might apply to you, please pursue this route first. Many organ
 
 Some university programs offer modest professional development benefits that can help cover the cost of conference registration for students. If this applies to you, please consider registering at one of the higher rates, depending on your budget.
 
-A limited number of student tickets are available at the Early Bird rate, so get yours while supplies last!
-
 <tito-widget event="amlc/2026-applied-machine-learning-conference" releases="personal-full-conference-copy,personal-day-1-only-copy,personal-day-2-only-copy,conference-t-shirt,support-the-conference"></tito-widget>
 
 ## Early Bird Pricing
