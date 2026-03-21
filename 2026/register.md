@@ -9,21 +9,19 @@ year: 2026
 
 Tickets for the 2026 Applied Machine Learning Conference are now available! We expect the conference to sell out, so be sure to secure your tickets early.
 
-#### **Early Bird pricing is available until March 20!**
-
 ## Employer-Paid Tickets
 
 **Employer-Paid** tickets are for professionals whose employer (or another organization, like a university or government agency) is covering the cost of their conference registration.  Ticket sales at the employer-paid rate help make the conference possible and allow us to keep ticket prices accessible for others, especially students.
 
 If you think this might apply to you, please pursue this route first. Many organizations have professional development or training budgets that can cover conference registration — it's worth checking with your manager or HR department.
 
-<tito-widget event="amlc/2026-applied-machine-learning-conference" releases="early-bird-employer-paid-full-conference,early-bird-employer-paid-day-1-only,early-bird-employer-paid-day-2-only,employer-paid-full-conference,employer-paid-day-1-only,employer-paid-day-2-only,conference-t-shirt,support-the-conference"></tito-widget>
+<tito-widget event="amlc/2026-applied-machine-learning-conference" releases="employer-paid-full-conference,employer-paid-day-1-only,employer-paid-day-2-only,conference-t-shirt,support-the-conference"></tito-widget>
 
 ## Personal Tickets
 
 **Personal** tickets are for individuals who are registering for the conference using their own money.
 
-<tito-widget event="amlc/2026-applied-machine-learning-conference" releases="early-bird-personal-full-conference,early-bird-personal-day-1-only,early-bird-personal-day-2-only,personal-full-conference,personal-day-1-only,personal-day-2-only,conference-t-shirt,support-the-conference"></tito-widget>
+<tito-widget event="amlc/2026-applied-machine-learning-conference" releases="employer-paid-full-conference-copy,employer-paid-day-1-only-copy,employer-paid-day-2-only-copy,conference-t-shirt,support-the-conference"></tito-widget>
 
 ## Student Tickets
 
@@ -33,7 +31,7 @@ Some university programs offer modest professional development benefits that can
 
 A limited number of student tickets are available at the Early Bird rate, so get yours while supplies last!
 
-<tito-widget event="amlc/2026-applied-machine-learning-conference" releases="early-bird-student-full-conference,early-bird-student-day-1-only,early-bird-student-day-2-only,student-full-conference,student-day-1-only,student-day-2-only,conference-t-shirt,support-the-conference"></tito-widget>
+<tito-widget event="amlc/2026-applied-machine-learning-conference" releases="personal-full-conference-copy,personal-day-1-only-copy,personal-day-2-only-copy,conference-t-shirt,support-the-conference"></tito-widget>
 
 ## Early Bird Pricing
 
