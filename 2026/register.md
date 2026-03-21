@@ -37,6 +37,13 @@ A limited number of student tickets are available at the Early Bird rate, so get
 
 **Early Bird pricing is available until March 20.** For tickets sold after March 20, **Standard** pricing will apply. Please consult the table below for Early Bird and Standard pricing across all ticket types. 
 
+<style>
+  .early-bird-expired {
+    text-decoration: line-through;
+    opacity: 0.4;
+  }
+</style>
+
 <table class="conference-table">
   <thead>
     <tr>
@@ -53,17 +60,17 @@ A limited number of student tickets are available at the Early Bird rate, so get
     </tr>
     <tr class="sub-row">
       <td>Full Conference</td>
-      <td>$350</td>
+      <td class="early-bird-expired">$350</td>
       <td>$450</td>
     </tr>
     <tr class="sub-row">
       <td>Friday Only</td>
-      <td>$200</td>
+      <td class="early-bird-expired">$200</td>
       <td>$250</td>
     </tr>
     <tr class="sub-row">
       <td>Saturday Only</td>
-      <td>$200</td>
+      <td class="early-bird-expired">$200</td>
       <td>$250</td>
     </tr>
     <tr class="price-row">
@@ -73,17 +80,17 @@ A limited number of student tickets are available at the Early Bird rate, so get
     </tr>
     <tr class="sub-row">
       <td>Full Conference</td>
-      <td>$225</td>
+      <td class="early-bird-expired">$225</td>
       <td>$325</td>
     </tr>
     <tr class="sub-row">
       <td>Friday Only</td>
-      <td>$135</td>
+      <td class="early-bird-expired">$135</td>
       <td>$185</td>
     </tr>
     <tr class="sub-row">
       <td>Saturday Only</td>
-      <td>$135</td>
+      <td class="early-bird-expired">$135</td>
       <td>$185</td>
     </tr>
     <tr class="price-row">
@@ -93,17 +100,17 @@ A limited number of student tickets are available at the Early Bird rate, so get
     </tr>
     <tr class="sub-row">
       <td>Full Conference</td>
-      <td>$125</td>
+      <td class="early-bird-expired">$125</td>
       <td>$175</td>
     </tr>
     <tr class="sub-row">
       <td>Friday Only</td>
-      <td>$75</td>
+      <td class="early-bird-expired">$75</td>
       <td>$100</td>
     </tr>
     <tr class="sub-row">
       <td>Saturday Only</td>
-      <td>$75</td>
+      <td class="early-bird-expired">$75</td>
       <td>$100</td>
     </tr>
   </tbody>
