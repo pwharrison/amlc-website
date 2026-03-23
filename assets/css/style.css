@@ -569,14 +569,17 @@ section h2 {
 
 .sponsor-tier-diamond img {
   max-height: 100px;
+  max-width: 375px;
 }
 
 .sponsor-tier-platinum img {
   max-height: 80px;
+  max-width: 300px;
 }
 
 .sponsor-tier-gold img {
   max-height: 80px;
+  max-width: 300px;
 }
 
 .sponsor-logos img {
