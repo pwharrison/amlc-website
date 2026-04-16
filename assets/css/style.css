@@ -1071,3 +1071,116 @@ section h2 {
   font-style: italic;
   color: var(--text-secondary);
 }
+
+/* ===================================
+   Job Board
+   =================================== */
+
+.job-listings {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+  margin-top: var(--spacing-lg);
+}
+
+.job-card {
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: var(--spacing-lg);
+  transition: border-color var(--transition-base);
+}
+
+.job-card:hover {
+  border-color: var(--primary-color);
+}
+
+.job-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+.job-title-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.job-card .job-title {
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: var(--primary-color);
+}
+
+.job-company {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.job-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: flex-start;
+}
+
+.job-tag {
+  background-color: rgba(96, 165, 250, 0.1);
+  border: 1px solid rgba(96, 165, 250, 0.3);
+  color: var(--primary-color);
+  border-radius: 4px;
+  padding: 0.2rem 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.job-body {
+  color: var(--text-secondary);
+  margin-bottom: var(--spacing-md);
+}
+
+.job-body p {
+  margin-bottom: var(--spacing-sm);
+}
+
+.job-body ul {
+  padding-left: 1.5rem;
+}
+
+.job-body ul li {
+  margin-bottom: 0.4rem;
+}
+
+.job-card-footer {
+  border-top: 1px solid var(--border-color);
+  padding-top: var(--spacing-md);
+}
+
+.job-apply-btn {
+  display: inline-block;
+  background-color: var(--primary-color);
+  color: var(--bg-primary);
+  font-weight: 600;
+  padding: 0.5rem 1.25rem;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color var(--transition-fast);
+}
+
+.job-apply-btn:hover {
+  background-color: var(--primary-dark);
+  text-decoration: none;
+  color: var(--bg-primary);
+}
+
+@media (max-width: 600px) {
+  .job-card-header {
+    flex-direction: column;
+  }
+}
