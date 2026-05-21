@@ -7,7 +7,7 @@ youtube_id:
 
 # Catch What Your Model Misses: An Anticipatory Design Framework for Ethical AI Evaluation
 
-**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · Classroom 206 **
+**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · Classroom 206**
 
 ---
 

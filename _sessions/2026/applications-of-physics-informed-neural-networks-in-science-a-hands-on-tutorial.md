@@ -7,7 +7,7 @@ youtube_id:
 
 # Applications of Physics-Informed Neural Networks in Science: A Hands-On Tutorial
 
-**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · Classroom 206 **
+**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · Classroom 206**
 
 ---
 

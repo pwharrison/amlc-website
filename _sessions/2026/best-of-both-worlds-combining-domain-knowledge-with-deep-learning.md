@@ -7,7 +7,7 @@ youtube_id:
 
 # Best of Both Worlds: Combining Domain Knowledge with Deep Learning
 
-**Saturday, April 18, 2026 · 1:30 PM – 3:00 PM · Classroom 206 **
+**Saturday, April 18, 2026 · 1:30 PM – 3:00 PM · Classroom 206**
 
 ---
 
