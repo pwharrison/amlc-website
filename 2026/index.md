@@ -117,7 +117,7 @@ year: 2026
   <div class="container">
     <h2>Featured Speakers</h2>
     <div class="speaker-wall-grid">
-      <script type="text/javascript" src="https://sessionize.com/api/v2/xnloaqcm/view/SpeakerWall"></script>
+      {% include speaker-wall-2026.html %}
     </div>
   </div>
 </section>

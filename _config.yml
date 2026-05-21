@@ -26,6 +26,11 @@ social_description: A two-day conference bringing together data scientists, AI e
 baseurl: ""
 url: "https://appliedml.us"
 
+# Collections
+collections:
+  sessions:
+    output: true
+
 # Build settings
 theme: minima
 plugins:

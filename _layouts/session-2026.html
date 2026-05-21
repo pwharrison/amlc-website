@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include header-2026.html %}
+
+<main class="page-content inner-page">
+  <div class="container">
+    <article class="page-article session-article">
+      <p class="session-breadcrumb"><a href="/2026/schedule/">← Back to Schedule</a></p>
+      {% if page.youtube_id %}
+      <div class="session-video">
+        <iframe src="https://www.youtube.com/embed/{{ page.youtube_id }}"
+                title="{{ page.title }}"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen></iframe>
+      </div>
+      {% endif %}
+      {{ content }}
+    </article>
+  </div>
+</main>
+
+{% include footer-2026.html %}
