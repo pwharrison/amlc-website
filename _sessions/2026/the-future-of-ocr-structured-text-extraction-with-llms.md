@@ -2,12 +2,12 @@
 layout: session-2026
 title: "The Future of OCR? Structured Text Extraction with LLMs"
 permalink: /2026/sessions/the-future-of-ocr-structured-text-extraction-with-llms/
-youtube_id:
+youtube_id: 5ahp4fWLOUQ
 ---
 
 # The Future of OCR? Structured Text Extraction with LLMs
 
-**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Auditorium 3**
+**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Violet Crown Charlottesville**
 
 ---
 

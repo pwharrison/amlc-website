@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Keynote: Graphics, AI, and the Quest for New Experiences at NVIDIA"
 permalink: /2026/sessions/keynote-graphics-ai-and-the-quest-for-new-experiences-at-nvidia/
-youtube_id:
+youtube_id: yvfSRGeaQ14
 ---
 
 # Keynote: Graphics, AI, and the Quest for New Experiences at NVIDIA
 
-**Friday, April 17, 2026 · 9:00 AM – 10:00 AM · Auditorium 5**
+**Friday, April 17, 2026 · 9:00 AM – 10:00 AM · Violet Crown Charlottesville**
 
 ---
 

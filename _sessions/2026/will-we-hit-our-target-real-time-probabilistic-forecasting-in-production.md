@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Will We Hit Our Target? Real-Time Probabilistic Forecasting in Production"
 permalink: /2026/sessions/will-we-hit-our-target-real-time-probabilistic-forecasting-in-production/
-youtube_id:
+youtube_id: x5Eluv0qOR8
 ---
 
 # Will We Hit Our Target? Real-Time Probabilistic Forecasting in Production
 
-**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Auditorium 5**
+**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Violet Crown Charlottesville**
 
 ---
 

@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Agentic Search: Rethinking Search Away From \"Top 10 Results\""
 permalink: /2026/sessions/agentic-search-rethinking-search-away-from-top-10-results/
-youtube_id:
+youtube_id: VPzi7sb7O2M
 ---
 
 # Agentic Search: Rethinking Search Away From "Top 10 Results"
 
-**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · Classroom 205**
+**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · UVA School of Data Science**
 
 ---
 

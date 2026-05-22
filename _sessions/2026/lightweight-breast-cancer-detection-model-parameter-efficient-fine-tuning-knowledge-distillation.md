@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Lightweight Breast Cancer Detection Model: Parameter-Efficient Fine-Tuning & Knowledge Distillation"
 permalink: /2026/sessions/lightweight-breast-cancer-detection-model-parameter-efficient-fine-tuning-knowledge-distillation/
-youtube_id:
+youtube_id: RwI3EKEdgyQ
 ---
 
 # Lightweight Breast Cancer Detection Model: Parameter-Efficient Fine-Tuning & Knowledge Distillation
 
-**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Auditorium 4**
+**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Violet Crown Charlottesville**
 
 ---
 

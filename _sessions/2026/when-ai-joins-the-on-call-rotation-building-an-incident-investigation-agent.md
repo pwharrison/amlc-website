@@ -2,12 +2,12 @@
 layout: session-2026
 title: "When AI Joins the On-Call Rotation: Building an Incident Investigation Agent"
 permalink: /2026/sessions/when-ai-joins-the-on-call-rotation-building-an-incident-investigation-agent/
-youtube_id:
+youtube_id: AMYHACvSU3Q
 ---
 
 # When AI Joins the On-Call Rotation: Building an Incident Investigation Agent
 
-**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · Classroom 305**
+**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · UVA School of Data Science**
 
 ---
 

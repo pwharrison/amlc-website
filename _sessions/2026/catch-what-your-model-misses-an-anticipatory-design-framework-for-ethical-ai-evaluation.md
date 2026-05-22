@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Catch What Your Model Misses: An Anticipatory Design Framework for Ethical AI Evaluation"
 permalink: /2026/sessions/catch-what-your-model-misses-an-anticipatory-design-framework-for-ethical-ai-evaluation/
-youtube_id:
+youtube_id: Z4wNF5Zl35Q
 ---
 
 # Catch What Your Model Misses: An Anticipatory Design Framework for Ethical AI Evaluation
 
-**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · Classroom 206**
+**Saturday, April 18, 2026 · 11:00 AM – 12:30 PM · UVA School of Data Science**
 
 ---
 

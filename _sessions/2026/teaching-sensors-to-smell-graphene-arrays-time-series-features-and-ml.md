@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Teaching Sensors to Smell: Graphene Arrays, Time-Series Features, and ML"
 permalink: /2026/sessions/teaching-sensors-to-smell-graphene-arrays-time-series-features-and-ml/
-youtube_id:
+youtube_id: 2Igl1wMUts4
 ---
 
 # Teaching Sensors to Smell: Graphene Arrays, Time-Series Features, and ML
 
-**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Auditorium 2**
+**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Violet Crown Charlottesville**
 
 ---
 

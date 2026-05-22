@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Ex Uno Plures: Agents for Everyone"
 permalink: /2026/sessions/ex-uno-plures-agents-for-everyone/
-youtube_id:
+youtube_id: ZqQthQW-V6w
 ---
 
 # Ex Uno Plures: Agents for Everyone
 
-**Friday, April 17, 2026 · 10:20 AM – 10:50 AM · Auditorium 5**
+**Friday, April 17, 2026 · 10:20 AM – 10:50 AM · Violet Crown Charlottesville**
 
 ---
 

@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Testing AI Agents: A Practical Framework for Reliability, Performance, and Governance"
 permalink: /2026/sessions/testing-ai-agents-a-practical-framework-for-reliability-performance-and-governance/
-youtube_id:
+youtube_id: wb8r_IX3j-k
 ---
 
 # Testing AI Agents: A Practical Framework for Reliability, Performance, and Governance
 
-**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Auditorium 5**
+**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Violet Crown Charlottesville**
 
 ---
 

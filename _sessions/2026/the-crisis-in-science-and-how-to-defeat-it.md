@@ -7,7 +7,7 @@ youtube_id:
 
 # The Crisis in Science — and How to Defeat It
 
-**Saturday, April 18, 2026 · 3:30 PM – 5:00 PM · Classroom 206**
+**Saturday, April 18, 2026 · 3:30 PM – 5:00 PM · UVA School of Data Science**
 
 ---
 

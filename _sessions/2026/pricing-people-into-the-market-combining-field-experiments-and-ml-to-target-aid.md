@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Pricing People into the Market: Combining Field Experiments and ML to Target Aid"
 permalink: /2026/sessions/pricing-people-into-the-market-combining-field-experiments-and-ml-to-target-aid/
-youtube_id:
+youtube_id: _FK7Q-EsBfM
 ---
 
 # Pricing People into the Market: Combining Field Experiments and ML to Target Aid
 
-**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Auditorium 3**
+**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Violet Crown Charlottesville**
 
 ---
 

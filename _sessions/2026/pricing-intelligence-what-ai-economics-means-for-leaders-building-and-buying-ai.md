@@ -7,7 +7,7 @@ youtube_id:
 
 # Pricing Intelligence: What AI economics means for leaders building and buying AI
 
-**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Auditorium 5**
+**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Violet Crown Charlottesville**
 
 ---
 

@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Probabilistic Programming for Recommender Systems"
 permalink: /2026/sessions/probabilistic-programming-for-recommender-systems/
-youtube_id:
+youtube_id: qlExrae8YeY
 ---
 
 # Probabilistic Programming for Recommender Systems
 
-**Saturday, April 18, 2026 · 1:30 PM – 3:00 PM · Classroom 205**
+**Saturday, April 18, 2026 · 1:30 PM – 3:00 PM · UVA School of Data Science**
 
 ---
 

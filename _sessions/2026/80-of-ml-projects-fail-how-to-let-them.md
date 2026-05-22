@@ -2,12 +2,12 @@
 layout: session-2026
 title: "80% of ML Projects Fail - How to Let Them"
 permalink: /2026/sessions/80-of-ml-projects-fail-how-to-let-them/
-youtube_id:
+youtube_id: x3RolIvLpqs
 ---
 
 # 80% of ML Projects Fail - How to Let Them
 
-**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Auditorium 5**
+**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Violet Crown Charlottesville**
 
 ---
 

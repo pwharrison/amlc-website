@@ -2,12 +2,12 @@
 layout: session-2026
 title: "The (Un)Reliability of Reasoning in Frontier Models"
 permalink: /2026/sessions/the-unreliability-of-reasoning-in-frontier-models/
-youtube_id:
+youtube_id: dSX2MiTtQ7E
 ---
 
 # The (Un)Reliability of Reasoning in Frontier Models
 
-**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Auditorium 5**
+**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Violet Crown Charlottesville**
 
 ---
 

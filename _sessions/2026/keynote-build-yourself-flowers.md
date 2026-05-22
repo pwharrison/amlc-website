@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Keynote: Build Yourself Flowers"
 permalink: /2026/sessions/keynote-build-yourself-flowers/
-youtube_id:
+youtube_id: lksCTX_busE
 ---
 
 # Keynote: Build Yourself Flowers
 
-**Friday, April 17, 2026 · 4:00 PM – 5:00 PM · Auditorium 5**
+**Friday, April 17, 2026 · 4:00 PM – 5:00 PM · Violet Crown Charlottesville**
 
 ---
 

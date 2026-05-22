@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Examining Claude’s Constitution Through the Lens of the Value Chain of Ethical AI"
 permalink: /2026/sessions/examining-claudes-constitution-through-the-lens-of-the-value-chain-of-ethical-ai/
-youtube_id:
+youtube_id: Ly54NZoHn38
 ---
 
 # Examining Claude’s Constitution Through the Lens of the Value Chain of Ethical AI
 
-**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Auditorium 2**
+**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Violet Crown Charlottesville**
 
 ---
 

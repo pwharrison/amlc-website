@@ -1,13 +1,13 @@
 ---
 layout: session-2026
-title: "Can Claude Code save R?"
+title: "Can Claude Code Save R?"
 permalink: /2026/sessions/can-claude-code-save-r/
-youtube_id:
+youtube_id: WCK0JSuuZo8
 ---
 
-# Can Claude Code save R?
+# Can Claude Code Save R?
 
-**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Auditorium 4**
+**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Violet Crown Charlottesville**
 
 ---
 

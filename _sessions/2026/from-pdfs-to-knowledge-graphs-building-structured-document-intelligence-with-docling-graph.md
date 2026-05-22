@@ -2,12 +2,12 @@
 layout: session-2026
 title: "From PDFs to Knowledge Graphs: Building Structured Document Intelligence with Docling-Graph"
 permalink: /2026/sessions/from-pdfs-to-knowledge-graphs-building-structured-document-intelligence-with-docling-graph/
-youtube_id:
+youtube_id: G4YrVRfqKlA
 ---
 
 # From PDFs to Knowledge Graphs: Building Structured Document Intelligence with Docling-Graph
 
-**Saturday, April 18, 2026 · 3:30 PM – 5:00 PM · Classroom 305**
+**Saturday, April 18, 2026 · 3:30 PM – 5:00 PM · UVA School of Data Science**
 
 ---
 

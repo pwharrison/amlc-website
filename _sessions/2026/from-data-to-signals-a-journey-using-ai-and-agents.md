@@ -2,12 +2,12 @@
 layout: session-2026
 title: "From Data to Signals: A Journey Using AI and Agents"
 permalink: /2026/sessions/from-data-to-signals-a-journey-using-ai-and-agents/
-youtube_id:
+youtube_id: dnEXEhdAO7o
 ---
 
 # From Data to Signals: A Journey Using AI and Agents
 
-**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Auditorium 2**
+**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Violet Crown Charlottesville**
 
 ---
 

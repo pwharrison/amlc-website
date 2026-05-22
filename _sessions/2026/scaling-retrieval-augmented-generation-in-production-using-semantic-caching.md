@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Scaling Retrieval-Augmented Generation in Production using Semantic Caching"
 permalink: /2026/sessions/scaling-retrieval-augmented-generation-in-production-using-semantic-caching/
-youtube_id:
+youtube_id: 0BMM_JGPddI
 ---
 
 # Scaling Retrieval-Augmented Generation in Production using Semantic Caching
 
-**Friday, April 17, 2026 · 2:35 PM – 3:05 PM · Auditorium 3**
+**Friday, April 17, 2026 · 2:35 PM – 3:05 PM · Violet Crown Charlottesville**
 
 ---
 

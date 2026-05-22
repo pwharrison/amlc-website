@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Cognitive Memory for Coding Agents: Reusable Reasoning Across Platforms"
 permalink: /2026/sessions/cognitive-memory-for-coding-agents-reusable-reasoning-across-platforms/
-youtube_id:
+youtube_id: Z_nf4Au2w1U
 ---
 
 # Cognitive Memory for Coding Agents: Reusable Reasoning Across Platforms
 
-**Friday, April 17, 2026 · 2:35 PM – 3:05 PM · Auditorium 5**
+**Friday, April 17, 2026 · 2:35 PM – 3:05 PM · Violet Crown Charlottesville**
 
 ---
 

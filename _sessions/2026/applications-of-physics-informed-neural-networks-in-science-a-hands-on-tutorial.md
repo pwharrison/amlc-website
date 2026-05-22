@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Applications of Physics-Informed Neural Networks in Science: A Hands-On Tutorial"
 permalink: /2026/sessions/applications-of-physics-informed-neural-networks-in-science-a-hands-on-tutorial/
-youtube_id:
+youtube_id: zj0BaPuJNSQ
 ---
 
 # Applications of Physics-Informed Neural Networks in Science: A Hands-On Tutorial
 
-**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · Classroom 206**
+**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · UVA School of Data Science**
 
 ---
 

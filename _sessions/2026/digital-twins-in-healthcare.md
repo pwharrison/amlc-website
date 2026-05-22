@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Digital Twins in Healthcare"
 permalink: /2026/sessions/digital-twins-in-healthcare/
-youtube_id:
+youtube_id: oaUqzbdublQ
 ---
 
 # Digital Twins in Healthcare
 
-**Friday, April 17, 2026 · 10:20 AM – 10:50 AM · Auditorium 4**
+**Friday, April 17, 2026 · 10:20 AM – 10:50 AM · Violet Crown Charlottesville**
 
 ---
 

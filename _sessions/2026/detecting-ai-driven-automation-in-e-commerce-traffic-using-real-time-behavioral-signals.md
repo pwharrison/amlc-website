@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Detecting AI-Driven Automation in E-Commerce Traffic Using Real-Time Behavioral Signals"
 permalink: /2026/sessions/detecting-ai-driven-automation-in-e-commerce-traffic-using-real-time-behavioral-signals/
-youtube_id:
+youtube_id: 7iSQ7XTX9Hg
 ---
 
 # Detecting AI-Driven Automation in E-Commerce Traffic Using Real-Time Behavioral Signals
 
-**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Auditorium 3**
+**Friday, April 17, 2026 · 10:55 AM – 11:25 AM · Violet Crown Charlottesville**
 
 ---
 

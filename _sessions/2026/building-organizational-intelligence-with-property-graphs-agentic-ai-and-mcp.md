@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Building Organizational Intelligence with Property Graphs, Agentic AI, and MCP"
 permalink: /2026/sessions/building-organizational-intelligence-with-property-graphs-agentic-ai-and-mcp/
-youtube_id:
+youtube_id: yzZ1Azr1Ir0
 ---
 
 # Building Organizational Intelligence with Property Graphs, Agentic AI, and MCP
 
-**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Auditorium 2**
+**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Violet Crown Charlottesville**
 
 ---
 

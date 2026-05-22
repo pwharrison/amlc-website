@@ -1,13 +1,13 @@
 ---
 layout: session-2026
-title: "From Large-scale Mobility Data to Behavioral Intelligence"
+title: "From Large-Scale Mobility Data to Behavioral Intelligence"
 permalink: /2026/sessions/from-large-scale-mobility-data-to-behavioral-intelligence/
-youtube_id:
+youtube_id: QbKoRrkHGC8
 ---
 
-# From Large-scale Mobility Data to Behavioral Intelligence
+# From Large-Scale Mobility Data to Behavioral Intelligence
 
-**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Auditorium 2**
+**Friday, April 17, 2026 · 11:30 AM – 12:00 PM · Violet Crown Charlottesville**
 
 ---
 

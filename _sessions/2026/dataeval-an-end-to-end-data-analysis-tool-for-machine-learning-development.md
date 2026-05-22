@@ -2,12 +2,12 @@
 layout: session-2026
 title: "DataEval: An End-to-End Data Analysis Tool for Machine Learning Development"
 permalink: /2026/sessions/dataeval-an-end-to-end-data-analysis-tool-for-machine-learning-development/
-youtube_id:
+youtube_id: aiIPvoUmQ7M
 ---
 
 # DataEval: An End-to-End Data Analysis Tool for Machine Learning Development
 
-**Saturday, April 18, 2026 · 3:30 PM – 5:00 PM · Classroom 205**
+**Saturday, April 18, 2026 · 3:30 PM – 5:00 PM · UVA School of Data Science**
 
 ---
 

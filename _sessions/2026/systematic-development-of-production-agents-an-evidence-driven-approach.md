@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Systematic Development of Production Agents: An Evidence-Driven Approach"
 permalink: /2026/sessions/systematic-development-of-production-agents-an-evidence-driven-approach/
-youtube_id:
+youtube_id: rjduq3yN2rA
 ---
 
 # Systematic Development of Production Agents: An Evidence-Driven Approach
 
-**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · Classroom 305**
+**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · UVA School of Data Science**
 
 ---
 

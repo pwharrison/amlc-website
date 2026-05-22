@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Real World MCP: Augmenting Model Context from Existing Data Sources"
 permalink: /2026/sessions/real-world-mcp-augmenting-model-context-from-existing-data-sources/
-youtube_id:
+youtube_id: BOhLTQJwQSw
 ---
 
 # Real World MCP: Augmenting Model Context from Existing Data Sources
 
-**Saturday, April 18, 2026 · 1:30 PM – 3:00 PM · Classroom 305**
+**Saturday, April 18, 2026 · 1:30 PM – 3:00 PM · UVA School of Data Science**
 
 ---
 

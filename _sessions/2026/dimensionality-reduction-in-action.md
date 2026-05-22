@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Dimensionality Reduction in Action"
 permalink: /2026/sessions/dimensionality-reduction-in-action/
-youtube_id:
+youtube_id: _JfNh4VNZAw
 ---
 
 # Dimensionality Reduction in Action
 
-**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · Classroom 205**
+**Saturday, April 18, 2026 · 9:00 AM – 10:30 AM · UVA School of Data Science**
 
 ---
 

@@ -2,12 +2,12 @@
 layout: session-2026
 title: "It's Not Like The Movies: Managing Uncertainty When Tracking Objects in the Real World"
 permalink: /2026/sessions/its-not-like-the-movies-managing-uncertainty-when-tracking-objects-in-the-real-world/
-youtube_id:
+youtube_id: LFoX80KV58Q
 ---
 
 # It's Not Like The Movies: Managing Uncertainty When Tracking Objects in the Real World
 
-**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Auditorium 3**
+**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Violet Crown Charlottesville**
 
 ---
 

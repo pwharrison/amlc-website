@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Beyond A/B Testing: Practical Contextual Bandits for Dynamic Pricing in Production"
 permalink: /2026/sessions/beyond-ab-testing-practical-contextual-bandits-for-dynamic-pricing-in-production/
-youtube_id:
+youtube_id: zW5DP4DUsRY
 ---
 
 # Beyond A/B Testing: Practical Contextual Bandits for Dynamic Pricing in Production
 
-**Friday, April 17, 2026 · 10:20 AM – 10:50 AM · Auditorium 2**
+**Friday, April 17, 2026 · 10:20 AM – 10:50 AM · Violet Crown Charlottesville**
 
 ---
 

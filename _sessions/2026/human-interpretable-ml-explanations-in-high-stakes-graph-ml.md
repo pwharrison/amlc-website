@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Human-Interpretable ML Explanations in High-Stakes Graph ML"
 permalink: /2026/sessions/human-interpretable-ml-explanations-in-high-stakes-graph-ml/
-youtube_id:
+youtube_id: Hr5COJyPTfs
 ---
 
 # Human-Interpretable ML Explanations in High-Stakes Graph ML
 
-**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Auditorium 4**
+**Friday, April 17, 2026 · 3:10 PM – 3:40 PM · Violet Crown Charlottesville**
 
 ---
 

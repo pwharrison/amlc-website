@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Leveraging Taxonomic Structure in Classification on Large Label Sets"
 permalink: /2026/sessions/leveraging-taxonomic-structure-in-classification-on-large-label-sets/
-youtube_id:
+youtube_id: 8y-jS5QGKJI
 ---
 
 # Leveraging Taxonomic Structure in Classification on Large Label Sets
 
-**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Auditorium 4**
+**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Violet Crown Charlottesville**
 
 ---
 

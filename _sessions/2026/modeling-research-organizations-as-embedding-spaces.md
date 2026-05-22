@@ -7,7 +7,7 @@ youtube_id:
 
 # Modeling Research Organizations as Embedding Spaces
 
-**Friday, April 17, 2026 · 2:35 PM – 3:05 PM · Auditorium 2**
+**Friday, April 17, 2026 · 2:35 PM – 3:05 PM · Violet Crown Charlottesville**
 
 ---
 

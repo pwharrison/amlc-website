@@ -2,12 +2,12 @@
 layout: session-2026
 title: "Leveraging a Hidden Forest to Improve the Prediction Accuracy of Random Forest Ensembles"
 permalink: /2026/sessions/leveraging-a-hidden-forest-to-improve-the-prediction-accuracy-of-random-forest-ensembles/
-youtube_id:
+youtube_id: 1vb4RIAPQpQ
 ---
 
 # Leveraging a Hidden Forest to Improve the Prediction Accuracy of Random Forest Ensembles
 
-**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Auditorium 4**
+**Friday, April 17, 2026 · 1:45 PM – 2:15 PM · Violet Crown Charlottesville**
 
 ---
 

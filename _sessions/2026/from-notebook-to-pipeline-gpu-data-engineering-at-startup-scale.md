@@ -2,12 +2,12 @@
 layout: session-2026
 title: "From Notebook to Pipeline: GPU Data Engineering at Startup Scale"
 permalink: /2026/sessions/from-notebook-to-pipeline-gpu-data-engineering-at-startup-scale/
-youtube_id:
+youtube_id: 1y4PNhP2yX0
 ---
 
 # From Notebook to Pipeline: GPU Data Engineering at Startup Scale
 
-**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Auditorium 3**
+**Friday, April 17, 2026 · 1:10 PM – 1:40 PM · Violet Crown Charlottesville**
 
 ---
 
