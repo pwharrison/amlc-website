@@ -27,4 +27,4 @@ The first day of the conference featured keynote presentations, four tracks of 3
   <img src="{{ '/assets/images/cfp-tutorials.jpg' | relative_url }}" alt="Tutorials at UVA School of Data Science">
 </div>
 
-The second day featured three tracks of practical, 90-minute tutorials that dove deeper into the latest tools and techniques used by modern data science and AI professionals, as well as three sessions for lightning talks, at the University of Virginia's School of Data Science.
+The second day featured three tracks of practical, 90-minute tutorials that dove deeper into the latest tools and techniques used by modern data science and AI professionals, as well as ten lightning talks, at the University of Virginia's School of Data Science.
