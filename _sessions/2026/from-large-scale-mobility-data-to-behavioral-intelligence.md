@@ -2,7 +2,7 @@
 layout: session-2026
 title: "From Large-Scale Mobility Data to Behavioral Intelligence"
 permalink: /2026/sessions/from-large-scale-mobility-data-to-behavioral-intelligence/
-youtube_id: QbKoRrkHGC8
+youtube_id: 
 ---
 
 # From Large-Scale Mobility Data to Behavioral Intelligence
