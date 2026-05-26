@@ -7,6 +7,8 @@ year: 2026
 
 # Conference Schedule
 
+The session schedule from the 2026 Applied Machine Learning Conference is available below. Video recordings for many sessions are available on the session detail pages, which are accessible by clicking or tapping the session name in the schedule.
+
 <div class="schedule-grid">
 {% include schedule-2026.html %}
 </div>
