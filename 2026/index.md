@@ -125,7 +125,9 @@ photoswipe: true
       </a>
       {% endfor %}
     </div>
-    <a href="{{ '/2026/gallery/' | relative_url }}" class="view-all-photos">View all photos →</a>
+    <div style="text-align: center; margin-top: var(--spacing-xl);">
+      <a href="{{ '/2026/gallery/' | relative_url }}" class="btn btn-primary">View the Gallery</a>
+    </div>
   </div>
 </section>
 
