@@ -544,7 +544,7 @@ section h2 {
     object-fit: cover;
 }
 
-.sponsors {
+section.sponsors {
     padding-top: var(--spacing-lg);
     padding-bottom: var(--spacing-lg);
     background-color: var(--bg-primary);
