@@ -3,6 +3,7 @@ layout: session-2026
 title: "Pricing Intelligence: What AI economics means for leaders building and buying AI"
 permalink: /2026/sessions/pricing-intelligence-what-ai-economics-means-for-leaders-building-and-buying-ai/
 youtube_id:
+session_photo: https://amlc-images.appliedml.us/2026/041726_MMP_UVA344.jpg
 ---
 
 # Pricing Intelligence: What AI economics means for leaders building and buying AI

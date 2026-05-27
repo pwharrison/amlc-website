@@ -16,6 +16,10 @@ layout: default
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
       </div>
+      {% elsif page.session_photo %}
+      <div class="session-video">
+        <img src="{{ page.session_photo }}" alt="{{ page.title }}">
+      </div>
       {% endif %}
       {{ content }}
     </article>

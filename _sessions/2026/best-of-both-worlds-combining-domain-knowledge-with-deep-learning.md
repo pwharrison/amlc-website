@@ -3,6 +3,7 @@ layout: session-2026
 title: "Best of Both Worlds: Combining Domain Knowledge with Deep Learning"
 permalink: /2026/sessions/best-of-both-worlds-combining-domain-knowledge-with-deep-learning/
 youtube_id:
+session_photo: https://amlc-images.appliedml.us/2026/041826_MMP_Multi332.jpg
 ---
 
 # Best of Both Worlds: Combining Domain Knowledge with Deep Learning
