@@ -14,7 +14,7 @@ photoswipe: true
     <p class="hero-subtitle">Charlottesville, Virginia</p>
     <div class="hero-cta">
       <a href="{{ '/2026/gallery/' | relative_url }}" class="btn btn-primary">View the Gallery</a>
-      <a href="{{ '/2026/schedule/' | relative_url }}" class="btn btn-primary">View the Schedule and Recordings</a>
+      <a href="{{ '/2026/schedule/' | relative_url }}" class="btn btn-primary">View Sessions and Recordings</a>
     </div>
   </div>
 </div>
