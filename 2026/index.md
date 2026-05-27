@@ -2,6 +2,7 @@
 layout: home-2026
 permalink: /2026/
 year: 2026
+photoswipe: true
 ---
 
 <div class="hero">
@@ -107,6 +108,24 @@ year: 2026
     <div class="speaker-wall-grid">
       {% include speaker-wall-2026.html %}
     </div>
+  </div>
+</section>
+
+<section class="featured-photos">
+  <div class="container">
+    <h2>Selected Photos</h2>
+    <div class="pswp-gallery gallery-grid" id="featured-gallery">
+      {% assign featured_photos = site.data.gallery-2026 | where: "featured", true %}
+      {% for photo in featured_photos %}
+      <a href="https://amlc-images.appliedml.us/2026/{{ photo.filename }}"
+         data-pswp-width="2048"
+         data-pswp-height="1365">
+        <img src="https://amlc-images.appliedml.us/2026/{{ photo.filename }}"
+             alt="AMLC 2026">
+      </a>
+      {% endfor %}
+    </div>
+    <a href="{{ '/2026/gallery/' | relative_url }}" class="view-all-photos">View all photos →</a>
   </div>
 </section>
 

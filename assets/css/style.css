@@ -772,6 +772,54 @@ section h2 {
     object-fit: cover;
 }
 
+/* Gallery Grid */
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-sm);
+    margin-top: var(--spacing-md);
+}
+
+.gallery-grid a {
+    display: block;
+    aspect-ratio: 3 / 2;
+    overflow: hidden;
+    border-radius: 6px;
+    cursor: zoom-in;
+}
+
+.gallery-grid img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform var(--transition-base), filter var(--transition-base);
+}
+
+.gallery-grid a:hover img {
+    transform: scale(1.04);
+    filter: brightness(1.1);
+}
+
+/* Featured Photos (home page) */
+.featured-photos {
+    padding-top: var(--spacing-lg);
+    padding-bottom: var(--spacing-lg);
+    background-color: var(--bg-secondary);
+}
+
+.view-all-photos {
+    display: inline-block;
+    margin-top: var(--spacing-md);
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.view-all-photos:hover {
+    text-decoration: underline;
+}
+
 /* Content Images */
 .content-image {
     margin-bottom: var(--spacing-lg);
@@ -1414,5 +1462,17 @@ section.featured-speaker {
 @media (max-width: 600px) {
     .job-card-header {
         flex-direction: column;
+    }
+}
+
+@media (max-width: 768px) {
+    .gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .gallery-grid {
+        grid-template-columns: 1fr;
     }
 }
