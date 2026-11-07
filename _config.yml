@@ -23,6 +23,7 @@ email: contact@appliedml.us
 description: >-
   The Applied Machine Learning Conference is a two-day, in-person event that brings together data scientists, AI engineers, computational researchers, and other technical leaders to share knowledge, learn from each other, and advance the fields of applied machine learning, AI, and scientific computing.
 social_description: A two-day conference bringing together data scientists, AI engineers, and ML practitioners in Charlottesville, VA. April 16-17, 2027.
+social_image: /assets/images/social-card-2027.png
 baseurl: ""
 url: "https://appliedml.us"
 
@@ -49,10 +50,12 @@ defaults:
       path: "2026"
     values:
       social_description: &social_2026 A two-day conference bringing together data scientists, AI engineers, and ML practitioners in Charlottesville, VA. April 17-18, 2026.
+      social_image: /assets/images/social-card.png
   - scope:
       path: "_sessions/2026"
     values:
       social_description: *social_2026
+      social_image: /assets/images/social-card.png
 
 # Don't process these files/dirs
 exclude:
