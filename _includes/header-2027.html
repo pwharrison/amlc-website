@@ -1,0 +1,50 @@
+<header class="site-header">
+  <div class="header-container">
+    <div class="site-title">
+      <a href="{{ '/2027/' | relative_url }}" class="logo-link" aria-label="Applied Machine Learning Conference">
+        <img src="{{ '/assets/images/amlc-header-logo.svg' | relative_url }}" alt="AMLC" class="site-logo">
+      </a>
+    </div>
+
+    <button class="mobile-menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+      <span class="hamburger"></span>
+    </button>
+
+    <nav class="site-nav">
+      <ul class="nav-list">
+        <li><a href="{{ '/2027/' | relative_url }}" {% if page.url == '/2027/' %}class="active"{% endif %}>Home</a></li>
+        <li><a href="{{ '/2027/cfp/' | relative_url }}" {% if page.url contains '/cfp' %}class="active"{% endif %}>Call for Proposals</a></li>
+        <li><a href="{{ '/2027/register/' | relative_url }}" {% if page.url contains '/register' %}class="active"{% endif %}>Register</a></li>
+        <li><a href="{{ '/2027/schedule/' | relative_url }}" {% if page.url contains '/schedule' %}class="active"{% endif %}>Schedule</a></li>
+        <li><a href="{{ '/2027/venue/' | relative_url }}" {% if page.url contains '/venue' %}class="active"{% endif %}>Location</a></li>
+        <li><a href="{{ '/2027/sponsors/' | relative_url }}" {% if page.url contains '/sponsors' %}class="active"{% endif %}>Sponsors</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<script>
+  (function() {
+    const toggle = document.querySelector('.mobile-menu-toggle');
+    const nav = document.querySelector('.site-nav');
+
+    toggle.addEventListener('click', function() {
+      const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', !isExpanded);
+      nav.classList.toggle('active');
+      document.body.classList.toggle('nav-open');
+    });
+
+    // Close menu when clicking a link
+    const navLinks = document.querySelectorAll('.site-nav a');
+    navLinks.forEach(link => {
+      link.addEventListener('click', function() {
+        toggle.setAttribute('aria-expanded', 'false');
+        nav.classList.remove('active');
+        document.body.classList.remove('nav-open');
+      });
+    });
+  })();
+</script>
