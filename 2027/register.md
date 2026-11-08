@@ -9,7 +9,7 @@ year: 2027
 
 Ticket sales for the 2027 Applied Machine Learning Conference will begin soon. We expect the conference to sell out, so be sure to secure your tickets early!
 
-## Get Notified When Registration Opens
+### Get Notified When Registration Opens
 
 Enter your email address below to receive an announcement when tickets go on sale:
 
