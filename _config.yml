@@ -63,10 +63,17 @@ defaults:
       social_description: *social_2026
       social_image: /assets/images/social-card.png
 
-# Don't process these files/dirs
+# Don't process these files/dirs. In Jekyll 3 (which GitHub Pages runs), this
+# list replaces Jekyll's default excludes rather than adding to them, so the
+# usual repo files are listed here too.
 exclude:
   - about.markdown
   - _posts
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
 
 # Exclude from processing.
 # The following items will not be processed, by default.
