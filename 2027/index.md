@@ -2,6 +2,7 @@
 layout: home-2027
 permalink: /2027/
 year: 2027
+photoswipe: true
 ---
 
 <div class="hero">
@@ -67,6 +68,27 @@ year: 2027
         <p><i>1919 Ivy Road</i></p>
         <p><i>Charlottesville, VA 22904</i></p>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="featured-photos">
+  <div class="container">
+    <h2>Scenes from the 2026 Conference</h2>
+    <div class="pswp-gallery gallery-grid" id="featured-gallery">
+      {% assign featured_photos = site.data.gallery-2026 | where: "featured", true %}
+      {% for photo in featured_photos %}
+      <a href="https://amlc-images.appliedml.us/2026/{{ photo.filename }}"
+         data-pswp-width="2048"
+         data-pswp-height="1365">
+        <img src="https://amlc-images.appliedml.us/2026/{{ photo.filename }}"
+             alt="AMLC 2026">
+      </a>
+      {% endfor %}
+    </div>
+    <div class="cta-buttons">
+      <a href="{{ '/2026/gallery/' | relative_url }}" class="btn btn-primary">View the 2026 Gallery</a>
+      <a href="{{ '/2026/schedule/' | relative_url }}" class="btn btn-primary">View 2026 Sessions and Recordings</a>
     </div>
   </div>
 </section>
