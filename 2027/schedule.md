@@ -7,7 +7,20 @@ year: 2027
 
 # Conference Schedule
 
-We will continue to update this page as more information about the conference schedule becomes available. Check back soon!
+We will continue to update this page as more information about the session schedule for the 2027 Applied Machine Learning Conference becomes available. In the meantime, to get a taste for what the conference is like, we recommend browsing the schedule and video recordings from the 2026 conference.
+
+<div class="cta-buttons">
+    <a href="{{ '/2026/schedule/' | relative_url }}" class="btn btn-primary">View 2026 Sessions and Recordings</a>
+</div>
+
+### Get Notified When the Schedule is Live
+
+Enter your email address below to receive an announcement when the session schedule is published:
+
+<div class="email-signup-form">
+<script async src="https://eomail5.com/form/3908d730-14dc-11f1-b664-bf483ec0c88a.js" data-form="3908d730-14dc-11f1-b664-bf483ec0c88a"></script>
+</div>
+
 
 ## Friday, April 16, 2027: Keynotes & Talks
 
