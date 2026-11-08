@@ -2,14 +2,15 @@
 layout: home-2026
 permalink: /2026/
 year: 2026
+full_title: 2026 Applied Machine Learning Conference
 photoswipe: true
 ---
 
 <div class="hero">
   <div class="hero-content">
-    <div class="hero-logo">
-      <img src="{{ '/assets/images/amlc-hero-logo.svg' | relative_url }}" alt="Applied Machine Learning Conference">
-    </div>
+    <h1 class="hero-logo">
+      <img src="{{ '/assets/images/amlc-hero-logo.svg' | relative_url }}" alt="2026 Applied Machine Learning Conference">
+    </h1>
     <p class="hero-date">April 17-18, 2026</p>
     <p class="hero-subtitle">Charlottesville, Virginia</p>
     <div class="hero-cta">
