@@ -141,6 +141,61 @@ strong {
 }
 
 /* ===================================
+   Archive Banner (past years' sites)
+   =================================== */
+
+.archive-banner {
+    background-color: var(--bg-dark);
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    line-height: 1.5;
+    text-align: center;
+    padding: var(--spacing-xs) var(--spacing-md);
+}
+
+/* Banner and header stick to the top together as one unit */
+.site-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.site-top .site-header {
+    position: static;
+}
+
+.archive-banner p {
+    margin: 0;
+}
+
+.archive-banner a {
+    color: var(--primary-color);
+    font-weight: 500;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.archive-banner a:hover,
+.archive-banner a:focus-visible {
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    .archive-banner-next {
+        display: none;
+    }
+}
+
+/* Hide the banner while the full-screen mobile menu is open, so the header
+   (and its close button) sits at the top where the menu expects it */
+@media (max-width: 768px) {
+    body.nav-open .archive-banner {
+        display: none;
+    }
+}
+
+/* ===================================
    Header & Navigation
    =================================== */
 

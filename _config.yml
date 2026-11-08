@@ -24,6 +24,12 @@ description: >-
   The Applied Machine Learning Conference is a two-day, in-person event that brings together data scientists, AI engineers, computational researchers, and other technical leaders to share knowledge, learn from each other, and advance the fields of applied machine learning, AI, and scientific computing.
 social_description: A two-day conference bringing together data scientists, AI engineers, and ML practitioners in Charlottesville, VA. April 16-17, 2027.
 social_image: /assets/images/social-card-2027.png
+# The upcoming conference. Archive banners on past years' sites link here,
+# so update this once each year when the new site launches.
+current_conference:
+  year: 2027
+  dates: April 16–17
+  url: /2027/
 baseurl: ""
 url: "https://appliedml.us"
 

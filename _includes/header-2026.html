@@ -1,3 +1,9 @@
+{% assign current = site.current_conference %}
+<div class="site-top">
+<div class="archive-banner" role="note">
+  <p>You're viewing the 2026 conference archive. <span class="archive-banner-next">The {{ current.year }} AMLC is {{ current.dates }}.</span> <a href="{{ current.url | relative_url }}">Visit the {{ current.year }} site&nbsp;&rarr;</a></p>
+</div>
+
 <header class="site-header">
   <div class="header-container">
     <div class="site-title">
@@ -24,6 +30,7 @@
     </nav>
   </div>
 </header>
+</div>
 
 <script>
   (function() {
