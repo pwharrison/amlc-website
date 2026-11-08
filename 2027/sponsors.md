@@ -34,11 +34,11 @@ The AMLC brings together hundreds of leading data scientists, AI engineers, comp
   <img src="{{ '/assets/images/2027/sponsorship-2.jpg' | relative_url }}" alt="A sponsor demonstrating their product to attendees at an expo booth">
 </div>
 
-## Sponsorship Packages
+## Sponsorship Opportunities
 
 We offer sponsorship packages at four levels — Diamond, Platinum, Gold, and Silver — with benefits including expo booths, the chance to present a talk or workshop, premium logo placement, job board listings, included conference passes, and more.
 
-A sponsorship of the conference's official social and networking event on Friday evening is also available, and is limited to one organization.
+An opportunity to sponsor the conference's official social and networking event on Friday evening is also available, and is limited to one organization.
 
 Need something else? We're happy to explore a custom package that fits your goals.
 
