@@ -7,14 +7,14 @@ year: 2027
 
 # Sponsors and Exhibitors
 
+<div class="content-image">
+  <img src="{{ '/assets/images/2027/sponsorship-1.jpg' | relative_url }}" alt="Attendees talking during a break at the conference">
+</div>
+
 Is your organization interested in partnering with the Applied Machine Learning Conference? Request a copy of our Sponsors and Exhibitors Prospectus for full details on sponsorship opportunities.
 
 <div class="cta-buttons">
   <a data-eo-form-toggle-id="15af8fb8-dabb-11f1-a115-5b49a500fd76" href="#" class="btn btn-primary">Request the Prospectus</a>
-</div>
-
-<div class="content-image">
-  <img src="{{ '/assets/images/sponsorship-1.jpg' | relative_url }}" alt="Conference sponsorship">
 </div>
 
 ## Why Sponsor?
@@ -31,7 +31,7 @@ The AMLC brings together hundreds of leading data scientists, AI engineers, comp
 <p class="sponsorship-note"><em>Data from the 2026 Applied Machine Learning Conference.</em></p>
 
 <div class="content-image">
-  <img src="{{ '/assets/images/sponsorship-2.jpg' | relative_url }}" alt="People gathered at the UVA School of Data Science">
+  <img src="{{ '/assets/images/2027/sponsorship-2.jpg' | relative_url }}" alt="A sponsor demonstrating their product to attendees at an expo booth">
 </div>
 
 ## Sponsorship Packages
@@ -41,6 +41,10 @@ We offer sponsorship packages at four levels — Diamond, Platinum, Gold, and Si
 A sponsorship of the conference's official social and networking event on Friday evening is also available, and is limited to one organization.
 
 Need something else? We're happy to explore a custom package that fits your goals.
+
+<div class="content-image">
+  <img src="{{ '/assets/images/2027/sponsorship-3.jpg' | relative_url }}" alt="An attendee in conversation at the conference">
+</div>
 
 ## Ready to Learn More?
 

@@ -22,7 +22,7 @@ Enter your email address below to receive an announcement when the Call for Prop
 ## Talks: Friday, April 16
 
 <div class="content-image">
-  <img src="{{ '/assets/images/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
+  <img src="{{ '/assets/images/2027/cfp-talks.jpg' | relative_url }}" alt="Talks at the Violet Crown Cinema">
 </div>
 
 Talks are 30-minute presentations, including time for audience Q&A. They often include slides and demos, and tend to feature less audience interaction than workshops. All talks will be delivered on the first day, Friday, April 16, at the Violet Crown Cinema, an upscale movie theater in downtown Charlottesville. See your work projected on the big screen like never before!
@@ -30,7 +30,7 @@ Talks are 30-minute presentations, including time for audience Q&A. They often i
 ## Workshops: Saturday, April 17
 
 <div class="content-image">
-  <img src="{{ '/assets/images/cfp-tutorials.jpg' | relative_url }}" alt="Workshops at UVA School of Data Science">
+  <img src="{{ '/assets/images/2027/cfp-workshops.jpg' | relative_url }}" alt="Workshops at UVA School of Data Science">
 </div>
 
 Workshops are longer 90-minute sessions that more closely resemble a classroom setting. They tend to dive deeper into how to use a particular tool, technique, framework, modeling methodology used by modern data science and AI researchers and practitioners. They usually offer more opportunities for audience interaction, such as live demonstrations, coding along, or hands-on exercises. Workshops often also include additional resources for participants to use during the session, such as code repositories, example datasets, hosted computational notebooks, and so on.
